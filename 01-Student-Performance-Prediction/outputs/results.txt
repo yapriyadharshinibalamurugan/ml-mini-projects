@@ -1,0 +1,32 @@
+STUDENT PERFORMANCE PREDICTION - RESULTS
+==================================================
+
+=== Logistic Regression ===
+Accuracy : 0.840
+Precision: 0.920
+Recall   : 0.793
+F1-Score : 0.852
+Confusion Matrix:
+[[38  4]
+ [12 46]]
+
+=== Decision Tree ===
+Accuracy : 0.750
+Precision: 0.824
+Recall   : 0.724
+F1-Score : 0.771
+Confusion Matrix:
+[[33  9]
+ [16 42]]
+
+=== Random Forest ===
+Accuracy : 0.850
+Precision: 0.906
+Recall   : 0.828
+F1-Score : 0.865
+Confusion Matrix:
+[[37  5]
+ [10 48]]
+
+Best Model: Random Forest (Accuracy: 0.850)
+Number of at-risk (predicted Fail) students: 215
