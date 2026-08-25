@@ -1,0 +1,49 @@
+DISEASE PREDICTION - RESULTS
+==================================================
+
+=== Logistic Regression ===
+Accuracy : 0.720
+Precision: 0.655
+Recall   : 0.800
+F1-Score : 0.720
+Confusion Matrix:
+[[36 19]
+ [ 9 36]]
+
+=== Decision Tree ===
+Accuracy : 0.650
+Precision: 0.586
+Recall   : 0.756
+F1-Score : 0.660
+Confusion Matrix:
+[[31 24]
+ [11 34]]
+
+=== Random Forest ===
+Accuracy : 0.720
+Precision: 0.660
+Recall   : 0.778
+F1-Score : 0.714
+Confusion Matrix:
+[[37 18]
+ [10 35]]
+
+=== Naive Bayes ===
+Accuracy : 0.750
+Precision: 0.700
+Recall   : 0.778
+F1-Score : 0.737
+Confusion Matrix:
+[[40 15]
+ [10 35]]
+
+=== SVM ===
+Accuracy : 0.750
+Precision: 0.692
+Recall   : 0.800
+F1-Score : 0.742
+Confusion Matrix:
+[[39 16]
+ [ 9 36]]
+
+Best Model: Naive Bayes (Accuracy: 0.750)

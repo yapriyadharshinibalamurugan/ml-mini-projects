@@ -1,0 +1,501 @@
+Patient_ID,Age,Gender,Blood_Pressure,Sugar_Level,Cholesterol,Symptom_Score,Medical_History,Disease
+P0001,58,Female,123.0,146.0,248.0,9,Diabetes,Disease
+P0002,71,Male,147.0,85.0,174.0,4,Hypertension,Disease
+P0003,48,Male,96.0,121.0,158.0,9,Other,Disease
+P0004,34,Female,114.0,98.0,221.0,4,Other,No Disease
+P0005,62,Male,125.0,111.0,247.0,9,Hypertension,Disease
+P0006,27,Female,126.0,148.0,229.0,4,Diabetes,Disease
+P0007,40,Male,117.0,116.0,240.0,2,None,No Disease
+P0008,58,Female,136.0,111.0,170.0,6,Hypertension,No Disease
+P0009,77,Female,106.0,70.0,143.0,5,None,No Disease
+P0010,38,Female,122.0,132.0,260.0,3,None,No Disease
+P0011,42,Female,127.0,129.0,187.0,1,Hypertension,No Disease
+P0012,30,Female,134.0,175.0,190.0,8,Other,Disease
+P0013,30,Female,138.0,101.0,253.0,0,None,No Disease
+P0014,43,Male,105.0,117.0,222.0,3,None,No Disease
+P0015,72,Male,97.0,117.0,218.0,0,Diabetes,No Disease
+P0016,55,Male,148.0,157.0,287.0,5,Other,Disease
+P0017,59,Female,131.0,107.0,174.0,3,None,No Disease
+P0018,43,Female,112.0,118.0,237.0,4,Diabetes,No Disease
+P0019,22,Female,153.0,128.0,202.0,4,Other,No Disease
+P0020,41,Female,127.0,116.0,211.0,8,Hypertension,Disease
+P0021,72,Male,146.0,97.0,261.0,0,Hypertension,Disease
+P0022,21,Male,126.0,116.0,220.0,1,Diabetes,No Disease
+P0023,43,Female,162.0,142.0,222.0,5,Hypertension,Disease
+P0024,63,Male,157.0,79.0,243.0,4,None,Disease
+P0025,49,Male,121.0,114.0,185.0,6,Other,Disease
+P0026,57,Female,142.0,89.0,166.0,2,None,Disease
+P0027,21,Male,137.0,146.0,158.0,2,None,No Disease
+P0028,79,Female,150.0,70.0,121.0,9,Hypertension,No Disease
+P0029,40,Male,108.0,93.0,282.0,1,None,No Disease
+P0030,52,Female,137.0,121.0,156.0,2,Hypertension,No Disease
+P0031,31,Female,144.0,157.0,191.0,9,Other,Disease
+P0032,77,Female,93.0,108.0,189.0,0,Other,No Disease
+P0033,41,Female,104.0,93.0,212.0,4,None,Disease
+P0034,63,Male,90.0,166.0,233.0,4,Diabetes,No Disease
+P0035,44,Female,120.0,70.0,234.0,6,Hypertension,Disease
+P0036,68,Female,138.0,70.0,177.0,3,Hypertension,Disease
+P0037,46,Female,152.0,123.0,193.0,2,None,Disease
+P0038,78,Male,126.0,95.0,211.0,0,Hypertension,No Disease
+P0039,61,Female,154.0,79.0,190.0,7,Hypertension,No Disease
+P0040,47,Male,100.0,131.0,264.0,2,Diabetes,No Disease
+P0041,79,Female,94.0,117.0,220.0,1,Diabetes,Disease
+P0042,35,Male,124.0,93.0,229.0,3,None,No Disease
+P0043,34,Male,132.0,72.0,227.0,2,Diabetes,No Disease
+P0044,66,Female,124.0,136.0,247.0,0,None,Disease
+P0045,70,Male,90.0,130.0,207.0,2,Other,No Disease
+P0046,63,Female,123.0,107.0,148.0,1,None,No Disease
+P0047,74,Female,102.0,165.0,216.0,7,Other,Disease
+P0048,71,Female,137.0,78.0,174.0,5,None,Disease
+P0049,76,Male,132.0,70.0,179.0,8,Hypertension,No Disease
+P0050,22,Male,108.0,89.0,223.0,7,Diabetes,No Disease
+P0051,56,Female,116.0,109.0,250.0,9,Other,Disease
+P0052,70,Female,106.0,117.0,201.0,2,None,No Disease
+P0053,26,Male,124.0,103.0,212.0,4,Diabetes,Disease
+P0054,40,Female,142.0,121.0,268.0,6,None,Disease
+P0055,28,Female,107.0,72.0,210.0,4,Diabetes,Disease
+P0056,58,Female,134.0,153.0,304.0,7,Diabetes,Disease
+P0057,37,Male,115.0,108.0,223.0,4,None,Disease
+P0058,23,Male,111.0,144.0,130.0,0,Other,No Disease
+P0059,44,Male,123.0,120.0,230.0,4,Other,No Disease
+P0060,79,Female,106.0,124.0,215.0,3,Hypertension,No Disease
+P0061,33,Female,115.0,127.0,252.0,5,Diabetes,Disease
+P0062,69,Female,103.0,123.0,227.0,2,Hypertension,No Disease
+P0063,77,Male,160.0,129.0,194.0,4,Hypertension,Disease
+P0064,28,Female,126.0,150.0,151.0,1,None,No Disease
+P0065,45,Female,112.0,116.0,192.0,5,None,No Disease
+P0066,72,Female,129.0,131.0,166.0,5,None,Disease
+P0067,21,Female,123.0,107.0,177.0,4,Diabetes,No Disease
+P0068,39,Male,121.0,153.0,224.0,5,None,Disease
+P0069,47,Male,136.0,90.0,267.0,6,None,Disease
+P0070,66,Female,139.0,164.0,216.0,4,Diabetes,Disease
+P0071,79,Male,115.0,109.0,152.0,0,Diabetes,Disease
+P0072,26,Male,115.0,70.0,218.0,7,Other,No Disease
+P0073,63,Female,120.0,114.0,248.0,3,None,No Disease
+P0074,27,Female,90.0,90.0,176.0,8,None,No Disease
+P0075,66,Male,98.0,135.0,195.0,9,None,Disease
+P0076,54,Female,150.0,90.0,201.0,5,Other,No Disease
+P0077,33,Male,155.0,97.0,169.0,0,None,No Disease
+P0078,36,Female,121.0,70.0,226.0,2,Other,No Disease
+P0079,55,Male,135.0,96.0,195.0,2,Hypertension,No Disease
+P0080,69,Female,131.0,70.0,217.0,9,Other,Disease
+P0081,59,Male,180.0,70.0,165.0,3,Hypertension,No Disease
+P0082,23,Male,145.0,133.0,183.0,5,None,No Disease
+P0083,21,Male,123.0,134.0,229.0,6,Hypertension,No Disease
+P0084,25,Female,108.0,123.0,185.0,9,Other,No Disease
+P0085,73,Male,96.0,81.0,269.0,3,Diabetes,No Disease
+P0086,61,Male,129.0,109.0,184.0,5,Hypertension,Disease
+P0087,23,Female,111.0,110.0,209.0,0,Hypertension,No Disease
+P0088,73,Female,99.0,75.0,237.0,7,None,No Disease
+P0089,48,Male,113.0,155.0,143.0,6,Other,No Disease
+P0090,37,Male,106.0,136.0,130.0,8,Hypertension,Disease
+P0091,45,Female,155.0,103.0,139.0,2,Hypertension,No Disease
+P0092,63,Female,141.0,111.0,251.0,1,Hypertension,No Disease
+P0093,53,Female,125.0,116.0,178.0,0,Hypertension,No Disease
+P0094,29,Female,152.0,70.0,302.0,2,Diabetes,No Disease
+P0095,55,Female,126.0,103.0,177.0,4,Other,Disease
+P0096,33,Male,109.0,90.0,207.0,1,None,No Disease
+P0097,50,Female,152.0,80.0,262.0,2,None,No Disease
+P0098,67,Male,135.0,102.0,280.0,3,Diabetes,Disease
+P0099,34,Male,106.0,164.0,282.0,6,Other,Disease
+P0100,27,Male,122.0,129.0,248.0,2,Hypertension,Disease
+P0101,33,Female,109.0,93.0,241.0,8,Diabetes,Disease
+P0102,42,Male,100.0,127.0,224.0,7,Other,Disease
+P0103,79,Male,142.0,152.0,231.0,3,Hypertension,Disease
+P0104,76,Female,159.0,138.0,178.0,0,Diabetes,Disease
+P0105,59,Male,100.0,112.0,167.0,0,Other,No Disease
+P0106,40,Male,135.0,91.0,200.0,0,None,No Disease
+P0107,35,Female,113.0,131.0,193.0,0,None,No Disease
+P0108,64,Male,116.0,122.0,182.0,7,Other,Disease
+P0109,37,Male,114.0,137.0,228.0,2,None,No Disease
+P0110,66,Male,109.0,129.0,238.0,5,Other,Disease
+P0111,72,Female,126.0,141.0,204.0,2,Hypertension,Disease
+P0112,43,Female,110.0,94.0,259.0,4,Other,Disease
+P0113,45,Female,130.0,150.0,154.0,6,Hypertension,No Disease
+P0114,44,Male,124.0,116.0,192.0,1,Diabetes,No Disease
+P0115,79,Male,121.0,172.0,171.0,5,Other,Disease
+P0116,79,Female,109.0,89.0,125.0,5,Diabetes,No Disease
+P0117,79,Male,115.0,162.0,197.0,2,None,Disease
+P0118,64,Male,139.0,116.0,195.0,5,Hypertension,No Disease
+P0119,60,Female,134.0,90.0,261.0,9,Other,Disease
+P0120,48,Female,107.0,95.0,225.0,9,Diabetes,Disease
+P0121,34,Male,127.0,100.0,159.0,4,Hypertension,No Disease
+P0122,64,Male,139.0,123.0,274.0,1,Hypertension,No Disease
+P0123,20,Male,95.0,126.0,249.0,8,None,No Disease
+P0124,44,Female,135.0,93.0,223.0,7,None,No Disease
+P0125,26,Female,113.0,109.0,191.0,2,Hypertension,No Disease
+P0126,28,Female,135.0,174.0,162.0,7,Hypertension,Disease
+P0127,43,Female,111.0,162.0,185.0,8,Other,No Disease
+P0128,20,Male,93.0,123.0,244.0,2,Hypertension,No Disease
+P0129,63,Female,96.0,111.0,275.0,2,Other,Disease
+P0130,27,Female,126.0,114.0,262.0,1,Hypertension,No Disease
+P0131,43,Female,130.0,128.0,180.0,7,None,Disease
+P0132,30,Female,109.0,79.0,155.0,9,Other,No Disease
+P0133,70,Female,136.0,102.0,206.0,0,Diabetes,No Disease
+P0134,36,Male,95.0,70.0,129.0,7,None,No Disease
+P0135,27,Male,124.0,122.0,213.0,6,Other,Disease
+P0136,54,Female,103.0,129.0,194.0,6,Other,No Disease
+P0137,54,Male,113.0,96.0,181.0,2,Diabetes,No Disease
+P0138,52,Female,126.0,157.0,136.0,0,Other,Disease
+P0139,78,Female,110.0,73.0,221.0,3,Hypertension,No Disease
+P0140,24,Male,118.0,70.0,179.0,8,Diabetes,No Disease
+P0141,61,Male,143.0,117.0,153.0,4,None,No Disease
+P0142,58,Female,115.0,141.0,120.0,0,None,No Disease
+P0143,77,Female,140.0,161.0,199.0,4,Hypertension,Disease
+P0144,60,Female,105.0,96.0,271.0,7,None,No Disease
+P0145,47,Male,135.0,142.0,266.0,7,Other,Disease
+P0146,26,Female,151.0,109.0,182.0,4,Other,No Disease
+P0147,28,Female,90.0,105.0,176.0,8,Hypertension,No Disease
+P0148,27,Female,111.0,137.0,219.0,0,None,No Disease
+P0149,31,Male,135.0,130.0,160.0,3,None,No Disease
+P0150,53,Female,121.0,70.0,212.0,2,Hypertension,No Disease
+P0151,52,Female,132.0,154.0,231.0,1,Diabetes,No Disease
+P0152,67,Male,114.0,151.0,249.0,7,None,Disease
+P0153,74,Female,127.0,91.0,196.0,6,Diabetes,Disease
+P0154,42,Female,122.0,122.0,192.0,8,None,Disease
+P0155,43,Male,146.0,125.0,165.0,1,None,No Disease
+P0156,56,Female,130.0,118.0,167.0,3,None,Disease
+P0157,54,Male,131.0,93.0,191.0,5,None,Disease
+P0158,63,Male,118.0,90.0,215.0,2,Other,No Disease
+P0159,59,Female,116.0,109.0,237.0,7,Diabetes,Disease
+P0160,41,Female,117.0,145.0,168.0,2,Diabetes,No Disease
+P0161,46,Female,132.0,126.0,260.0,1,None,No Disease
+P0162,54,Female,117.0,99.0,189.0,2,None,No Disease
+P0163,20,Male,130.0,133.0,199.0,5,Diabetes,No Disease
+P0164,54,Female,162.0,70.0,170.0,1,Other,Disease
+P0165,56,Male,141.0,144.0,120.0,7,Hypertension,Disease
+P0166,66,Female,119.0,70.0,235.0,0,Hypertension,No Disease
+P0167,33,Female,147.0,99.0,229.0,6,Diabetes,Disease
+P0168,22,Female,118.0,76.0,189.0,1,None,No Disease
+P0169,20,Male,90.0,71.0,203.0,9,None,No Disease
+P0170,24,Female,107.0,145.0,221.0,5,Other,No Disease
+P0171,45,Female,91.0,96.0,137.0,1,Hypertension,No Disease
+P0172,74,Female,119.0,120.0,179.0,1,Other,Disease
+P0173,33,Female,125.0,109.0,232.0,9,Hypertension,Disease
+P0174,58,Male,155.0,124.0,150.0,7,Diabetes,Disease
+P0175,46,Female,131.0,112.0,212.0,1,Hypertension,No Disease
+P0176,28,Male,121.0,72.0,146.0,6,Other,No Disease
+P0177,34,Male,140.0,140.0,219.0,2,Other,No Disease
+P0178,34,Male,90.0,95.0,199.0,7,Other,No Disease
+P0179,45,Male,129.0,70.0,135.0,6,Diabetes,No Disease
+P0180,61,Male,139.0,97.0,247.0,7,Hypertension,Disease
+P0181,79,Male,98.0,155.0,171.0,6,Hypertension,No Disease
+P0182,32,Female,146.0,136.0,168.0,5,Other,No Disease
+P0183,70,Male,131.0,100.0,208.0,6,Hypertension,No Disease
+P0184,51,Male,118.0,100.0,246.0,4,None,No Disease
+P0185,58,Male,136.0,100.0,159.0,6,None,No Disease
+P0186,68,Female,166.0,172.0,202.0,0,None,Disease
+P0187,71,Female,128.0,121.0,217.0,0,Hypertension,Disease
+P0188,51,Male,129.0,123.0,228.0,8,Diabetes,Disease
+P0189,23,Female,117.0,141.0,207.0,4,Diabetes,Disease
+P0190,49,Male,110.0,117.0,185.0,4,Diabetes,No Disease
+P0191,56,Male,140.0,102.0,167.0,2,Diabetes,No Disease
+P0192,42,Female,110.0,104.0,203.0,4,None,Disease
+P0193,58,Male,126.0,108.0,157.0,2,None,No Disease
+P0194,64,Female,116.0,109.0,120.0,8,Other,Disease
+P0195,34,Female,134.0,132.0,217.0,8,Hypertension,Disease
+P0196,62,Male,131.0,112.0,236.0,5,Hypertension,Disease
+P0197,48,Male,144.0,132.0,120.0,0,Diabetes,No Disease
+P0198,55,Female,116.0,108.0,160.0,6,None,Disease
+P0199,32,Male,120.0,112.0,225.0,6,Diabetes,No Disease
+P0200,51,Male,107.0,70.0,282.0,9,Other,Disease
+P0201,26,Male,117.0,137.0,201.0,9,Hypertension,Disease
+P0202,78,Female,132.0,120.0,171.0,3,Hypertension,Disease
+P0203,70,Female,139.0,140.0,193.0,7,Diabetes,Disease
+P0204,41,Male,108.0,70.0,255.0,5,Other,No Disease
+P0205,47,Female,141.0,173.0,174.0,3,Hypertension,Disease
+P0206,21,Female,149.0,106.0,168.0,3,Other,No Disease
+P0207,61,Female,132.0,143.0,181.0,1,Other,No Disease
+P0208,64,Female,159.0,79.0,162.0,1,Diabetes,No Disease
+P0209,76,Female,111.0,128.0,205.0,3,None,Disease
+P0210,72,Male,103.0,78.0,265.0,4,Diabetes,Disease
+P0211,25,Male,93.0,91.0,213.0,7,None,No Disease
+P0212,47,Male,152.0,167.0,190.0,5,Other,Disease
+P0213,47,Female,137.0,104.0,188.0,3,None,Disease
+P0214,63,Female,124.0,117.0,137.0,6,Other,Disease
+P0215,63,Male,130.0,136.0,235.0,7,Hypertension,Disease
+P0216,39,Female,105.0,125.0,197.0,1,Hypertension,No Disease
+P0217,49,Male,169.0,115.0,193.0,6,Hypertension,Disease
+P0218,30,Male,127.0,121.0,328.0,1,Diabetes,Disease
+P0219,77,Male,127.0,182.0,212.0,1,Diabetes,No Disease
+P0220,74,Female,138.0,108.0,170.0,7,Other,No Disease
+P0221,47,Female,134.0,116.0,183.0,1,Hypertension,No Disease
+P0222,44,Male,129.0,142.0,246.0,8,Diabetes,Disease
+P0223,58,Male,111.0,143.0,205.0,0,Hypertension,No Disease
+P0224,52,Male,133.0,146.0,142.0,8,Diabetes,Disease
+P0225,20,Male,159.0,129.0,237.0,0,None,No Disease
+P0226,76,Female,149.0,76.0,173.0,9,None,Disease
+P0227,46,Female,154.0,159.0,275.0,9,Hypertension,Disease
+P0228,76,Male,116.0,76.0,243.0,1,Other,No Disease
+P0229,71,Male,107.0,119.0,182.0,5,Diabetes,Disease
+P0230,32,Female,123.0,87.0,251.0,5,Diabetes,No Disease
+P0231,60,Female,126.0,108.0,203.0,0,None,No Disease
+P0232,22,Male,145.0,120.0,234.0,6,None,Disease
+P0233,58,Male,95.0,120.0,219.0,7,Other,Disease
+P0234,25,Male,153.0,123.0,166.0,1,Other,No Disease
+P0235,27,Female,122.0,158.0,174.0,7,Other,No Disease
+P0236,46,Female,117.0,124.0,241.0,8,Hypertension,Disease
+P0237,28,Female,107.0,103.0,187.0,5,None,No Disease
+P0238,56,Male,95.0,139.0,184.0,4,Hypertension,Disease
+P0239,52,Male,140.0,146.0,162.0,8,None,Disease
+P0240,70,Female,126.0,73.0,217.0,8,None,Disease
+P0241,61,Female,102.0,128.0,283.0,0,Diabetes,No Disease
+P0242,63,Male,102.0,131.0,157.0,2,None,No Disease
+P0243,43,Female,119.0,101.0,201.0,8,None,No Disease
+P0244,34,Female,155.0,151.0,256.0,1,Hypertension,Disease
+P0245,78,Male,120.0,105.0,197.0,3,None,Disease
+P0246,73,Female,98.0,114.0,218.0,3,Hypertension,No Disease
+P0247,51,Male,121.0,105.0,158.0,1,Other,No Disease
+P0248,51,Male,120.0,110.0,217.0,2,None,No Disease
+P0249,43,Male,90.0,77.0,193.0,2,None,No Disease
+P0250,60,Male,124.0,70.0,239.0,0,Hypertension,Disease
+P0251,71,Male,121.0,158.0,247.0,5,Other,Disease
+P0252,68,Male,138.0,85.0,304.0,7,Diabetes,Disease
+P0253,68,Male,158.0,80.0,223.0,2,Other,No Disease
+P0254,77,Female,145.0,70.0,213.0,4,Hypertension,Disease
+P0255,71,Male,120.0,91.0,208.0,0,Other,No Disease
+P0256,31,Male,105.0,70.0,186.0,9,Hypertension,No Disease
+P0257,58,Female,171.0,159.0,214.0,6,Hypertension,Disease
+P0258,21,Female,126.0,140.0,188.0,9,Diabetes,Disease
+P0259,22,Female,125.0,89.0,207.0,0,None,No Disease
+P0260,68,Male,125.0,178.0,253.0,8,Hypertension,Disease
+P0261,56,Female,129.0,139.0,160.0,7,Hypertension,No Disease
+P0262,68,Male,122.0,100.0,246.0,6,Diabetes,Disease
+P0263,75,Male,115.0,70.0,253.0,9,Hypertension,Disease
+P0264,36,Male,115.0,179.0,195.0,6,None,Disease
+P0265,78,Male,124.0,70.0,120.0,4,Diabetes,No Disease
+P0266,68,Female,115.0,70.0,176.0,4,None,No Disease
+P0267,21,Female,112.0,141.0,252.0,4,None,No Disease
+P0268,21,Male,127.0,183.0,199.0,0,Diabetes,No Disease
+P0269,47,Male,120.0,152.0,160.0,7,Hypertension,No Disease
+P0270,73,Male,152.0,127.0,180.0,0,None,No Disease
+P0271,42,Female,90.0,128.0,234.0,3,None,Disease
+P0272,56,Male,145.0,136.0,222.0,8,None,Disease
+P0273,51,Male,147.0,133.0,190.0,8,None,No Disease
+P0274,52,Female,90.0,118.0,185.0,4,Diabetes,No Disease
+P0275,20,Female,119.0,113.0,184.0,3,Diabetes,No Disease
+P0276,38,Male,118.0,108.0,163.0,2,Other,No Disease
+P0277,21,Female,100.0,87.0,265.0,2,Other,No Disease
+P0278,72,Female,111.0,102.0,187.0,4,None,Disease
+P0279,63,Male,105.0,70.0,249.0,9,Hypertension,Disease
+P0280,45,Female,157.0,107.0,261.0,0,None,Disease
+P0281,51,Male,142.0,80.0,240.0,4,Hypertension,Disease
+P0282,25,Female,148.0,77.0,183.0,5,None,No Disease
+P0283,51,Male,138.0,115.0,216.0,6,Other,Disease
+P0284,74,Male,105.0,152.0,199.0,8,Other,Disease
+P0285,23,Male,116.0,138.0,164.0,2,Hypertension,No Disease
+P0286,74,Female,134.0,70.0,213.0,1,None,No Disease
+P0287,30,Male,103.0,80.0,153.0,2,Hypertension,No Disease
+P0288,75,Female,138.0,138.0,248.0,8,Other,Disease
+P0289,78,Male,121.0,81.0,181.0,6,None,Disease
+P0290,36,Male,118.0,103.0,208.0,8,None,Disease
+P0291,57,Female,138.0,127.0,211.0,1,Hypertension,No Disease
+P0292,43,Male,133.0,81.0,190.0,4,Diabetes,No Disease
+P0293,24,Male,119.0,113.0,223.0,3,Hypertension,No Disease
+P0294,71,Female,146.0,70.0,181.0,1,Other,No Disease
+P0295,53,Male,106.0,92.0,235.0,8,Other,Disease
+P0296,25,Male,136.0,120.0,146.0,8,Other,Disease
+P0297,41,Male,136.0,70.0,205.0,5,Other,Disease
+P0298,30,Male,119.0,123.0,278.0,5,Other,Disease
+P0299,67,Female,131.0,109.0,160.0,7,Diabetes,Disease
+P0300,35,Female,102.0,127.0,173.0,5,None,No Disease
+P0301,52,Male,142.0,117.0,221.0,0,Hypertension,Disease
+P0302,28,Female,122.0,151.0,207.0,3,Hypertension,Disease
+P0303,79,Male,116.0,114.0,214.0,6,Other,Disease
+P0304,78,Female,144.0,97.0,220.0,1,Hypertension,No Disease
+P0305,25,Male,112.0,114.0,225.0,8,Other,No Disease
+P0306,35,Male,100.0,126.0,244.0,7,Diabetes,No Disease
+P0307,48,Male,97.0,111.0,216.0,7,Diabetes,Disease
+P0308,22,Male,136.0,111.0,190.0,6,None,Disease
+P0309,39,Male,102.0,89.0,227.0,3,Diabetes,No Disease
+P0310,79,Male,157.0,90.0,276.0,1,Diabetes,Disease
+P0311,78,Female,90.0,70.0,195.0,2,None,No Disease
+P0312,55,Male,156.0,162.0,161.0,5,Hypertension,No Disease
+P0313,38,Female,129.0,73.0,244.0,4,Other,No Disease
+P0314,45,Male,123.0,89.0,195.0,7,Other,Disease
+P0315,22,Female,115.0,88.0,120.0,5,Hypertension,No Disease
+P0316,38,Female,132.0,137.0,234.0,5,None,Disease
+P0317,39,Female,124.0,101.0,179.0,0,Hypertension,No Disease
+P0318,51,Male,145.0,147.0,196.0,3,Diabetes,Disease
+P0319,26,Male,127.0,90.0,213.0,4,None,No Disease
+P0320,71,Female,128.0,118.0,208.0,2,None,Disease
+P0321,60,Male,118.0,85.0,228.0,8,None,Disease
+P0322,52,Female,124.0,174.0,183.0,0,Other,No Disease
+P0323,59,Male,131.0,74.0,221.0,5,Hypertension,No Disease
+P0324,58,Female,94.0,119.0,190.0,5,None,Disease
+P0325,37,Female,101.0,129.0,230.0,9,None,No Disease
+P0326,59,Male,138.0,122.0,225.0,4,None,Disease
+P0327,20,Female,128.0,104.0,163.0,4,Hypertension,No Disease
+P0328,30,Male,122.0,106.0,243.0,9,Other,Disease
+P0329,47,Female,125.0,111.0,179.0,4,Diabetes,No Disease
+P0330,76,Female,131.0,106.0,232.0,5,Other,Disease
+P0331,44,Male,115.0,139.0,215.0,7,None,No Disease
+P0332,69,Male,111.0,176.0,274.0,1,Other,Disease
+P0333,42,Male,129.0,93.0,191.0,5,Other,No Disease
+P0334,50,Female,107.0,70.0,186.0,0,Diabetes,No Disease
+P0335,49,Male,132.0,107.0,199.0,3,Hypertension,Disease
+P0336,61,Female,94.0,187.0,188.0,9,Hypertension,Disease
+P0337,54,Female,144.0,86.0,232.0,2,Other,Disease
+P0338,26,Male,134.0,159.0,135.0,8,Other,Disease
+P0339,79,Male,130.0,160.0,158.0,2,Hypertension,Disease
+P0340,35,Female,143.0,93.0,157.0,5,Hypertension,No Disease
+P0341,45,Female,155.0,127.0,238.0,0,Diabetes,No Disease
+P0342,67,Male,143.0,159.0,268.0,5,None,Disease
+P0343,76,Male,92.0,99.0,196.0,3,Other,No Disease
+P0344,71,Male,102.0,104.0,193.0,7,Hypertension,Disease
+P0345,79,Male,114.0,93.0,203.0,8,Other,Disease
+P0346,68,Male,125.0,80.0,246.0,3,Other,No Disease
+P0347,21,Female,134.0,91.0,163.0,9,Hypertension,Disease
+P0348,20,Female,112.0,73.0,210.0,9,Diabetes,No Disease
+P0349,67,Female,128.0,111.0,239.0,5,Other,Disease
+P0350,31,Female,111.0,87.0,220.0,0,Diabetes,No Disease
+P0351,24,Male,114.0,117.0,208.0,3,Hypertension,No Disease
+P0352,56,Male,100.0,70.0,240.0,6,None,No Disease
+P0353,51,Male,108.0,120.0,120.0,0,None,No Disease
+P0354,78,Female,101.0,135.0,227.0,7,Other,Disease
+P0355,74,Female,107.0,70.0,174.0,9,Hypertension,No Disease
+P0356,28,Male,144.0,121.0,127.0,5,Diabetes,No Disease
+P0357,60,Male,108.0,147.0,220.0,4,Other,No Disease
+P0358,54,Female,172.0,74.0,255.0,9,Hypertension,Disease
+P0359,38,Female,134.0,160.0,195.0,8,Hypertension,No Disease
+P0360,67,Male,128.0,123.0,238.0,1,Diabetes,No Disease
+P0361,35,Male,110.0,89.0,264.0,4,Other,No Disease
+P0362,22,Female,138.0,108.0,253.0,5,Hypertension,Disease
+P0363,39,Male,115.0,127.0,266.0,6,Hypertension,No Disease
+P0364,43,Male,127.0,112.0,230.0,4,Hypertension,No Disease
+P0365,73,Male,171.0,126.0,203.0,8,Diabetes,Disease
+P0366,75,Female,123.0,82.0,136.0,0,Other,No Disease
+P0367,52,Female,146.0,115.0,190.0,6,Other,Disease
+P0368,43,Female,112.0,70.0,166.0,9,Other,No Disease
+P0369,71,Female,124.0,107.0,287.0,6,Other,Disease
+P0370,30,Female,157.0,83.0,193.0,3,None,No Disease
+P0371,68,Female,114.0,88.0,205.0,8,None,Disease
+P0372,27,Female,158.0,147.0,222.0,4,Other,Disease
+P0373,55,Male,138.0,143.0,202.0,3,Diabetes,No Disease
+P0374,57,Male,115.0,128.0,268.0,6,None,Disease
+P0375,59,Male,136.0,77.0,175.0,3,Hypertension,Disease
+P0376,39,Male,143.0,101.0,208.0,2,None,No Disease
+P0377,54,Male,136.0,146.0,170.0,8,Hypertension,Disease
+P0378,67,Male,97.0,114.0,147.0,7,Other,No Disease
+P0379,44,Male,112.0,180.0,176.0,0,None,No Disease
+P0380,54,Female,121.0,122.0,199.0,6,Diabetes,Disease
+P0381,44,Female,124.0,116.0,183.0,8,None,No Disease
+P0382,48,Male,136.0,101.0,172.0,7,None,Disease
+P0383,37,Male,128.0,114.0,144.0,7,None,No Disease
+P0384,65,Female,101.0,105.0,197.0,5,Other,No Disease
+P0385,37,Male,132.0,131.0,140.0,3,Diabetes,No Disease
+P0386,21,Male,136.0,139.0,230.0,7,None,Disease
+P0387,73,Female,135.0,86.0,203.0,2,Diabetes,No Disease
+P0388,54,Male,144.0,70.0,142.0,8,Other,No Disease
+P0389,35,Female,140.0,70.0,188.0,1,Hypertension,No Disease
+P0390,60,Male,133.0,125.0,170.0,1,None,Disease
+P0391,55,Female,124.0,77.0,213.0,6,Diabetes,Disease
+P0392,52,Female,95.0,70.0,254.0,9,Diabetes,Disease
+P0393,23,Female,133.0,122.0,125.0,3,Other,No Disease
+P0394,52,Male,129.0,185.0,205.0,9,None,Disease
+P0395,33,Female,130.0,110.0,194.0,7,Hypertension,Disease
+P0396,40,Male,102.0,135.0,227.0,8,Diabetes,Disease
+P0397,67,Male,106.0,112.0,209.0,6,None,No Disease
+P0398,39,Male,144.0,107.0,170.0,4,Hypertension,No Disease
+P0399,75,Male,124.0,138.0,187.0,7,Diabetes,Disease
+P0400,27,Female,137.0,101.0,168.0,3,Diabetes,No Disease
+P0401,26,Female,126.0,118.0,243.0,1,Hypertension,No Disease
+P0402,22,Male,126.0,120.0,201.0,5,Hypertension,No Disease
+P0403,36,Male,142.0,90.0,276.0,8,Other,Disease
+P0404,52,Female,116.0,140.0,198.0,0,None,No Disease
+P0405,67,Male,127.0,105.0,172.0,9,None,Disease
+P0406,31,Female,117.0,87.0,139.0,6,Other,No Disease
+P0407,78,Male,117.0,126.0,128.0,9,Diabetes,Disease
+P0408,70,Male,119.0,83.0,137.0,8,Hypertension,No Disease
+P0409,41,Female,129.0,111.0,211.0,9,Hypertension,Disease
+P0410,74,Male,116.0,110.0,220.0,8,Hypertension,Disease
+P0411,41,Female,148.0,143.0,137.0,9,Diabetes,Disease
+P0412,65,Male,109.0,124.0,236.0,2,Hypertension,No Disease
+P0413,49,Male,122.0,109.0,181.0,4,Hypertension,No Disease
+P0414,57,Male,117.0,135.0,206.0,7,Other,Disease
+P0415,57,Female,151.0,152.0,264.0,7,Diabetes,Disease
+P0416,64,Male,129.0,127.0,236.0,3,None,Disease
+P0417,70,Male,144.0,110.0,189.0,0,Other,No Disease
+P0418,73,Male,98.0,71.0,164.0,0,Other,No Disease
+P0419,27,Male,130.0,78.0,120.0,3,None,No Disease
+P0420,46,Female,141.0,101.0,171.0,5,Other,No Disease
+P0421,46,Female,126.0,92.0,192.0,7,Diabetes,No Disease
+P0422,53,Male,144.0,104.0,161.0,5,Hypertension,Disease
+P0423,40,Female,116.0,112.0,195.0,8,Diabetes,No Disease
+P0424,49,Male,150.0,126.0,203.0,8,None,Disease
+P0425,52,Male,166.0,108.0,191.0,1,None,Disease
+P0426,47,Male,118.0,125.0,174.0,9,Other,No Disease
+P0427,66,Female,117.0,112.0,207.0,0,Diabetes,No Disease
+P0428,52,Female,151.0,70.0,218.0,1,Diabetes,No Disease
+P0429,24,Female,153.0,82.0,156.0,4,None,No Disease
+P0430,79,Female,116.0,106.0,256.0,3,Diabetes,Disease
+P0431,67,Female,117.0,74.0,196.0,3,None,No Disease
+P0432,38,Female,120.0,128.0,201.0,8,Diabetes,No Disease
+P0433,23,Female,101.0,156.0,228.0,7,Diabetes,No Disease
+P0434,54,Female,108.0,147.0,209.0,5,Diabetes,Disease
+P0435,68,Female,107.0,104.0,238.0,0,None,No Disease
+P0436,36,Male,111.0,155.0,211.0,1,Other,No Disease
+P0437,63,Female,124.0,114.0,176.0,5,Diabetes,Disease
+P0438,47,Female,129.0,100.0,214.0,1,None,No Disease
+P0439,49,Female,153.0,92.0,154.0,9,None,Disease
+P0440,48,Female,107.0,101.0,204.0,4,Diabetes,No Disease
+P0441,65,Female,143.0,98.0,199.0,4,Diabetes,No Disease
+P0442,72,Female,121.0,115.0,192.0,5,Other,No Disease
+P0443,25,Female,124.0,115.0,195.0,5,None,No Disease
+P0444,54,Female,137.0,110.0,125.0,5,None,No Disease
+P0445,79,Female,105.0,123.0,178.0,1,Hypertension,No Disease
+P0446,60,Female,132.0,146.0,204.0,9,None,Disease
+P0447,56,Female,128.0,138.0,206.0,2,Other,Disease
+P0448,43,Male,134.0,70.0,159.0,5,Hypertension,No Disease
+P0449,48,Male,130.0,70.0,251.0,7,Hypertension,Disease
+P0450,68,Female,169.0,138.0,165.0,0,Hypertension,No Disease
+P0451,65,Female,114.0,70.0,239.0,0,Diabetes,No Disease
+P0452,72,Male,115.0,103.0,217.0,1,Diabetes,No Disease
+P0453,50,Female,114.0,75.0,174.0,5,None,No Disease
+P0454,54,Male,115.0,70.0,271.0,8,Hypertension,Disease
+P0455,79,Male,114.0,126.0,152.0,3,Other,No Disease
+P0456,52,Male,146.0,133.0,237.0,2,Diabetes,No Disease
+P0457,71,Male,151.0,93.0,240.0,7,Other,Disease
+P0458,40,Male,115.0,70.0,173.0,9,Other,Disease
+P0459,51,Female,110.0,94.0,256.0,8,Diabetes,Disease
+P0460,42,Male,133.0,122.0,190.0,4,Diabetes,No Disease
+P0461,52,Female,115.0,70.0,212.0,8,Diabetes,No Disease
+P0462,22,Female,136.0,116.0,210.0,1,Diabetes,No Disease
+P0463,37,Male,129.0,110.0,195.0,2,Hypertension,Disease
+P0464,44,Male,98.0,127.0,232.0,6,Hypertension,No Disease
+P0465,61,Female,153.0,114.0,232.0,6,Hypertension,Disease
+P0466,50,Male,157.0,81.0,130.0,5,Hypertension,No Disease
+P0467,73,Male,114.0,146.0,252.0,5,None,Disease
+P0468,77,Female,118.0,105.0,134.0,1,Hypertension,No Disease
+P0469,22,Female,130.0,109.0,241.0,9,Diabetes,Disease
+P0470,59,Male,131.0,82.0,245.0,5,Other,Disease
+P0471,65,Female,137.0,97.0,156.0,3,Hypertension,No Disease
+P0472,43,Male,161.0,83.0,184.0,2,None,Disease
+P0473,69,Male,122.0,105.0,156.0,1,Diabetes,No Disease
+P0474,51,Male,111.0,161.0,191.0,0,Other,No Disease
+P0475,66,Female,100.0,70.0,188.0,4,Other,No Disease
+P0476,41,Female,112.0,70.0,231.0,1,Hypertension,No Disease
+P0477,42,Female,124.0,154.0,252.0,1,Other,Disease
+P0478,21,Female,157.0,104.0,256.0,6,Hypertension,Disease
+P0479,46,Female,116.0,90.0,178.0,7,Hypertension,No Disease
+P0480,61,Male,129.0,141.0,192.0,9,Diabetes,Disease
+P0481,21,Male,125.0,92.0,133.0,7,Diabetes,No Disease
+P0482,45,Male,146.0,165.0,168.0,3,None,No Disease
+P0483,36,Male,170.0,130.0,239.0,0,Diabetes,No Disease
+P0484,59,Female,115.0,95.0,265.0,6,Diabetes,Disease
+P0485,52,Male,116.0,175.0,151.0,0,Hypertension,No Disease
+P0486,28,Female,144.0,92.0,176.0,3,Diabetes,No Disease
+P0487,62,Male,137.0,132.0,199.0,7,Hypertension,Disease
+P0488,73,Female,158.0,119.0,211.0,1,Hypertension,No Disease
+P0489,67,Female,136.0,149.0,168.0,5,Diabetes,Disease
+P0490,58,Male,119.0,157.0,217.0,5,None,Disease
+P0491,48,Male,136.0,111.0,181.0,8,None,Disease
+P0492,61,Male,145.0,87.0,199.0,4,Other,No Disease
+P0493,74,Male,140.0,124.0,222.0,9,Other,Disease
+P0494,45,Female,134.0,90.0,200.0,3,Diabetes,No Disease
+P0495,54,Male,144.0,170.0,183.0,4,None,No Disease
+P0496,69,Male,146.0,114.0,196.0,9,Hypertension,Disease
+P0497,44,Female,150.0,99.0,196.0,4,Other,Disease
+P0498,43,Male,137.0,116.0,185.0,7,Hypertension,Disease
+P0499,32,Male,122.0,70.0,190.0,9,Other,No Disease
+P0500,79,Male,128.0,81.0,264.0,7,Diabetes,Disease
