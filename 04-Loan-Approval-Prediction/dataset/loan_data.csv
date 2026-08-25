@@ -1,0 +1,601 @@
+Loan_ID,Gender,Married,Dependents,Education,Self_Employed,ApplicantIncome,CoapplicantIncome,LoanAmount,Loan_Amount_Term,Credit_History,Property_Area,Loan_Status
+LN0001,Male,Yes,0,Graduate,No,5136.0,0.0,207.0,300,1.0,Semiurban,Approved
+LN0002,Female,No,1,Graduate,No,6706.0,2709.0,128.0,180,1.0,Rural,Approved
+LN0003,Male,No,3,Graduate,Yes,5969.0,678.0,48.0,120,1.0,Rural,Approved
+LN0004,Male,No,1,Graduate,No,3307.0,2449.0,95.0,120,0.0,Urban,Rejected
+LN0005,Male,Yes,0,Graduate,No,3713.0,0.0,244.0,360,,Urban,Approved
+LN0006,Female,Yes,1,Not Graduate,No,7060.0,2571.0,134.0,240,1.0,Urban,Approved
+LN0007,Male,Yes,0,Not Graduate,No,4330.0,47.0,135.0,300,1.0,Rural,Approved
+LN0008,Male,No,1,Graduate,No,4193.0,2377.0,132.0,300,0.0,Urban,Rejected
+LN0009,Male,No,0,Graduate,No,3090.0,1517.0,264.0,240,1.0,Semiurban,Approved
+LN0010,Female,No,0,Graduate,No,5847.0,355.0,248.0,120,1.0,Semiurban,Approved
+LN0011,Male,Yes,0,Graduate,No,9125.0,1012.0,283.0,120,1.0,Rural,Approved
+LN0012,Male,No,3,Graduate,No,2865.0,2324.0,140.0,180,1.0,Urban,Approved
+LN0013,Male,No,1,Graduate,No,5048.0,1627.0,168.0,360,1.0,Semiurban,Approved
+LN0014,Male,No,1,Graduate,Yes,7824.0,2201.0,59.0,360,1.0,Rural,Approved
+LN0015,Female,No,1,Graduate,No,4841.0,3872.0,239.0,360,0.0,Urban,Rejected
+LN0016,Male,Yes,0,Graduate,Yes,5905.0,0.0,80.0,180,0.0,Semiurban,Rejected
+LN0017,Female,Yes,1,Graduate,No,2875.0,3441.0,163.0,360,0.0,Urban,Approved
+LN0018,Female,No,1,Not Graduate,No,5857.0,1625.0,84.0,240,1.0,Rural,Approved
+LN0019,Female,Yes,0,Not Graduate,No,4626.0,421.0,115.0,180,0.0,Urban,Rejected
+LN0020,Male,Yes,2,Graduate,No,6971.0,0.0,100.0,240,1.0,Rural,Approved
+LN0021,Female,No,0,Not Graduate,Yes,7375.0,1273.0,114.0,180,1.0,Urban,Approved
+LN0022,Male,No,1,Graduate,No,10179.0,2606.0,118.0,360,1.0,Semiurban,Approved
+LN0023,Female,Yes,0,Not Graduate,No,6159.0,1347.0,117.0,240,1.0,Rural,Approved
+LN0024,Female,No,2,Not Graduate,Yes,5652.0,3313.0,200.0,240,1.0,Rural,Approved
+LN0025,Female,Yes,0,Graduate,No,5389.0,0.0,84.0,240,1.0,Rural,Approved
+LN0026,Female,No,1,Graduate,No,4294.0,1485.0,163.0,180,1.0,Urban,Approved
+LN0027,Female,Yes,2,Graduate,No,5677.0,0.0,223.0,300,0.0,Urban,Rejected
+LN0028,Female,No,3,Graduate,No,4409.0,1936.0,119.0,360,1.0,Semiurban,Approved
+LN0029,Female,Yes,1,Graduate,No,5337.0,2564.0,107.0,240,1.0,Rural,Approved
+LN0030,Female,Yes,2,Graduate,No,7635.0,995.0,136.0,300,1.0,Rural,Approved
+LN0031,Male,Yes,2,Graduate,No,2987.0,0.0,221.0,360,1.0,Urban,Approved
+LN0032,Male,No,3,Not Graduate,No,7280.0,1739.0,162.0,360,1.0,Urban,Approved
+LN0033,Female,Yes,0,Not Graduate,No,7634.0,2024.0,118.0,240,1.0,Semiurban,Approved
+LN0034,Female,Yes,0,Graduate,No,4764.0,1985.0,179.0,240,1.0,Semiurban,Approved
+LN0035,Female,No,1,Graduate,No,1000.0,2983.0,84.0,180,1.0,Urban,Approved
+LN0036,Male,No,3,Graduate,Yes,3784.0,215.0,191.0,300,1.0,Rural,Approved
+LN0037,Female,Yes,0,Graduate,No,7594.0,2316.0,175.0,300,0.0,Semiurban,Approved
+LN0038,Male,Yes,3,Not Graduate,No,4954.0,2931.0,132.0,240,1.0,Urban,Approved
+LN0039,Male,No,0,Graduate,No,3001.0,0.0,100.0,360,1.0,Urban,Approved
+LN0040,Male,No,2,Graduate,No,3990.0,1884.0,97.0,240,0.0,Rural,Rejected
+LN0041,Male,No,0,Graduate,No,6681.0,895.0,182.0,360,1.0,Urban,Approved
+LN0042,Male,No,3,Graduate,Yes,6093.0,1402.0,224.0,360,1.0,Urban,Approved
+LN0043,Female,No,2,Graduate,No,4522.0,1917.0,112.0,240,0.0,Semiurban,Rejected
+LN0044,Female,Yes,2,Not Graduate,No,4266.0,915.0,178.0,120,1.0,Urban,Approved
+LN0045,Female,No,2,Graduate,No,4216.0,689.0,25.0,300,1.0,Urban,Approved
+LN0046,Female,Yes,3,Graduate,No,3155.0,1541.0,115.0,360,1.0,Semiurban,Approved
+LN0047,Female,Yes,1,Graduate,No,8231.0,195.0,148.0,360,1.0,Rural,Approved
+LN0048,Male,Yes,1,Not Graduate,No,4355.0,197.0,95.0,120,1.0,Rural,Approved
+LN0049,Female,No,1,Not Graduate,Yes,7434.0,2315.0,94.0,180,1.0,Semiurban,Approved
+LN0050,Female,Yes,3,Graduate,No,8043.0,121.0,110.0,120,1.0,Semiurban,Approved
+LN0051,Male,Yes,2,Graduate,No,6997.0,2300.0,168.0,120,1.0,Rural,Approved
+LN0052,Female,No,1,Graduate,No,4137.0,2055.0,139.0,360,1.0,Rural,Approved
+LN0053,Male,Yes,3,Graduate,No,5807.0,0.0,20.0,300,1.0,Rural,Approved
+LN0054,Female,Yes,1,Not Graduate,No,4952.0,687.0,23.0,120,1.0,Rural,Approved
+LN0055,Male,No,0,Graduate,No,3193.0,2933.0,,180,1.0,Rural,Approved
+LN0056,Female,Yes,1,Graduate,No,5649.0,323.0,177.0,240,1.0,Semiurban,Approved
+LN0057,Female,Yes,1,Graduate,No,2642.0,943.0,20.0,120,0.0,Urban,Approved
+LN0058,Male,Yes,2,Graduate,No,7375.0,2054.0,120.0,120,1.0,Rural,Approved
+LN0059,Male,No,3,Graduate,No,4071.0,2440.0,118.0,180,1.0,Rural,Approved
+LN0060,Male,No,2,Graduate,No,5402.0,1198.0,233.0,300,1.0,Urban,Approved
+LN0061,Male,No,2,Graduate,No,5567.0,783.0,127.0,120,1.0,Urban,Approved
+LN0062,Male,Yes,2,Graduate,No,4482.0,3207.0,173.0,120,0.0,Urban,Approved
+LN0063,Male,Yes,2,Graduate,No,6173.0,3587.0,158.0,300,1.0,Urban,Approved
+LN0064,Male,No,2,Graduate,No,4050.0,2675.0,,180,0.0,Urban,Rejected
+LN0065,Male,Yes,1,Graduate,No,6743.0,1602.0,196.0,120,1.0,Urban,Approved
+LN0066,Female,Yes,2,Graduate,No,2308.0,530.0,163.0,300,1.0,Semiurban,Approved
+LN0067,Female,No,2,Graduate,No,5253.0,503.0,180.0,120,1.0,Urban,Approved
+LN0068,Male,No,3,Graduate,Yes,8878.0,2127.0,386.0,240,0.0,Urban,Approved
+LN0069,Female,Yes,0,Graduate,No,2999.0,2002.0,25.0,360,1.0,Semiurban,Approved
+LN0070,Female,Yes,1,Graduate,No,3645.0,3182.0,253.0,240,1.0,Urban,Approved
+LN0071,Female,Yes,1,Graduate,No,6028.0,2281.0,133.0,120,1.0,Rural,Approved
+LN0072,Female,No,1,Not Graduate,No,5359.0,0.0,167.0,180,1.0,Rural,Approved
+LN0073,Male,No,2,Graduate,No,5701.0,2762.0,147.0,360,0.0,Urban,Rejected
+LN0074,Female,No,2,Graduate,No,5978.0,302.0,125.0,240,1.0,Semiurban,Approved
+LN0075,Male,No,2,Graduate,No,6269.0,1039.0,116.0,300,1.0,Rural,Approved
+LN0076,Female,Yes,3,Graduate,Yes,7219.0,1800.0,170.0,180,1.0,Semiurban,Approved
+LN0077,Female,No,0,Graduate,Yes,5820.0,3895.0,59.0,240,1.0,Rural,Approved
+LN0078,Female,No,2,Graduate,No,4517.0,5232.0,195.0,300,0.0,Urban,Approved
+LN0079,Male,No,0,Graduate,No,6345.0,2228.0,125.0,120,1.0,Semiurban,Approved
+LN0080,Female,No,3,Graduate,No,8800.0,1280.0,82.0,300,1.0,Semiurban,Approved
+LN0081,Male,No,1,Graduate,No,4735.0,2141.0,123.0,240,0.0,Semiurban,Rejected
+LN0082,Female,Yes,2,Not Graduate,No,3051.0,2565.0,225.0,240,1.0,Rural,Approved
+LN0083,Male,Yes,0,Graduate,No,7214.0,1115.0,118.0,120,1.0,Rural,Approved
+LN0084,Female,No,0,Graduate,No,4759.0,3654.0,172.0,300,1.0,Rural,Approved
+LN0085,Male,Yes,2,Graduate,No,1000.0,1776.0,106.0,300,1.0,Urban,Approved
+LN0086,Male,No,1,Graduate,Yes,6695.0,2097.0,195.0,120,1.0,Rural,Approved
+LN0087,Female,No,1,Graduate,No,3929.0,2299.0,191.0,300,,Urban,Rejected
+LN0088,Male,Yes,1,Graduate,No,4819.0,2006.0,261.0,120,1.0,Semiurban,Approved
+LN0089,Female,Yes,3,Graduate,No,5664.0,2507.0,139.0,180,1.0,Semiurban,Approved
+LN0090,Female,No,0,Not Graduate,No,5381.0,759.0,190.0,240,0.0,Urban,Rejected
+LN0091,Female,No,0,Not Graduate,No,6419.0,830.0,156.0,180,1.0,Rural,Approved
+LN0092,Female,No,0,Graduate,No,4129.0,180.0,228.0,360,1.0,Urban,Approved
+LN0093,Female,Yes,3,Graduate,Yes,6026.0,2027.0,107.0,360,1.0,Semiurban,Approved
+LN0094,Female,No,0,Graduate,Yes,4481.0,2435.0,195.0,360,0.0,Semiurban,Approved
+LN0095,Female,No,3,Graduate,No,6478.0,2049.0,138.0,120,1.0,Urban,Approved
+LN0096,Female,No,1,Graduate,No,6231.0,3509.0,146.0,300,1.0,Rural,Approved
+LN0097,Female,Yes,2,Not Graduate,No,3129.0,1493.0,156.0,180,0.0,Rural,Rejected
+LN0098,Female,No,0,Graduate,Yes,7172.0,2302.0,165.0,180,1.0,Urban,Approved
+LN0099,Female,No,0,Not Graduate,Yes,3928.0,190.0,143.0,180,1.0,Urban,Approved
+LN0100,Male,Yes,1,Graduate,No,6616.0,1035.0,163.0,180,0.0,Rural,Approved
+LN0101,Male,No,2,Graduate,No,5735.0,2335.0,245.0,360,1.0,Semiurban,Approved
+LN0102,Female,No,3,Graduate,No,8676.0,2519.0,209.0,180,1.0,Urban,Approved
+LN0103,Female,Yes,2,Not Graduate,No,4553.0,1147.0,202.0,300,0.0,Rural,Rejected
+LN0104,Female,No,1,Graduate,No,4301.0,1414.0,123.0,360,1.0,Rural,Approved
+LN0105,Female,Yes,1,Not Graduate,Yes,4961.0,0.0,97.0,180,1.0,Semiurban,Approved
+LN0106,Female,Yes,2,Graduate,No,4394.0,1072.0,207.0,120,0.0,Semiurban,Approved
+LN0107,Female,No,3,Graduate,Yes,6600.0,2568.0,203.0,240,0.0,Semiurban,Approved
+LN0108,Female,No,3,Not Graduate,No,1767.0,2190.0,238.0,240,1.0,Semiurban,Approved
+LN0109,Female,No,0,Graduate,No,2893.0,2101.0,114.0,240,1.0,Semiurban,Approved
+LN0110,Male,No,3,Graduate,No,2864.0,1560.0,136.0,360,1.0,Urban,Approved
+LN0111,Female,Yes,2,Graduate,No,6901.0,1508.0,52.0,180,1.0,Rural,Approved
+LN0112,Male,No,1,Not Graduate,No,8421.0,708.0,126.0,360,1.0,Urban,Approved
+LN0113,Female,Yes,0,Not Graduate,No,4791.0,2339.0,210.0,300,1.0,Urban,Approved
+LN0114,Female,No,0,Graduate,No,4662.0,2005.0,122.0,120,1.0,Urban,Approved
+LN0115,Male,No,1,Graduate,No,5140.0,2090.0,188.0,120,1.0,Urban,Approved
+LN0116,Female,No,3,Not Graduate,No,7324.0,869.0,139.0,240,,Urban,Approved
+LN0117,Male,Yes,1,Graduate,No,3145.0,0.0,169.0,240,1.0,Semiurban,Approved
+LN0118,Female,No,3,Graduate,No,5477.0,2817.0,81.0,240,1.0,Semiurban,Approved
+LN0119,Female,No,1,Not Graduate,No,6950.0,925.0,155.0,180,1.0,Rural,Approved
+LN0120,Male,No,2,Graduate,No,6002.0,465.0,20.0,300,1.0,Urban,Approved
+LN0121,Female,No,3,Graduate,No,5379.0,2332.0,139.0,300,1.0,Rural,Approved
+LN0122,Male,Yes,2,Graduate,Yes,7002.0,1030.0,52.0,300,1.0,Semiurban,Approved
+LN0123,Female,No,0,Not Graduate,No,1000.0,2772.0,222.0,300,1.0,Semiurban,Approved
+LN0124,Male,Yes,1,Not Graduate,No,6356.0,2240.0,197.0,240,0.0,Semiurban,Rejected
+LN0125,Male,Yes,0,Not Graduate,No,3692.0,2320.0,178.0,120,1.0,Urban,Approved
+LN0126,Female,Yes,0,Graduate,No,1339.0,0.0,241.0,240,0.0,Urban,Rejected
+LN0127,Female,Yes,0,Not Graduate,No,6022.0,2954.0,93.0,300,1.0,Semiurban,Approved
+LN0128,Male,Yes,0,Not Graduate,No,7747.0,1814.0,255.0,240,1.0,Rural,Approved
+LN0129,Female,Yes,1,Graduate,Yes,4725.0,1057.0,206.0,300,0.0,Rural,Approved
+LN0130,Female,No,0,Not Graduate,No,6906.0,1672.0,136.0,360,1.0,Semiurban,Approved
+LN0131,Female,Yes,1,Graduate,No,8225.0,0.0,218.0,120,1.0,Rural,Approved
+LN0132,Male,Yes,1,Graduate,No,7630.0,1990.0,84.0,360,1.0,Semiurban,Approved
+LN0133,Male,Yes,2,Graduate,No,8280.0,265.0,101.0,180,1.0,Rural,Approved
+LN0134,Male,No,3,Graduate,No,6484.0,0.0,113.0,240,1.0,Semiurban,Approved
+LN0135,Male,No,3,Graduate,No,5151.0,0.0,118.0,180,1.0,Rural,Approved
+LN0136,Male,Yes,1,Graduate,No,1796.0,2835.0,87.0,240,1.0,Urban,Approved
+LN0137,Male,No,2,Graduate,No,4508.0,745.0,223.0,360,1.0,Semiurban,Approved
+LN0138,Male,Yes,1,Graduate,No,3314.0,3340.0,134.0,300,0.0,Semiurban,Rejected
+LN0139,Male,Yes,1,Graduate,No,9342.0,857.0,171.0,300,1.0,Rural,Approved
+LN0140,Male,No,1,Graduate,No,4648.0,0.0,116.0,240,1.0,Semiurban,Approved
+LN0141,Female,Yes,2,Graduate,No,5246.0,160.0,41.0,300,0.0,Semiurban,Approved
+LN0142,Male,No,3,Not Graduate,No,6103.0,2983.0,166.0,360,1.0,Semiurban,Approved
+LN0143,Female,No,2,Graduate,No,5087.0,1313.0,35.0,300,1.0,Urban,Approved
+LN0144,Female,Yes,0,Graduate,No,8390.0,842.0,146.0,360,1.0,Urban,Approved
+LN0145,Female,Yes,2,Not Graduate,Yes,3755.0,1692.0,68.0,180,1.0,Rural,Approved
+LN0146,Male,No,2,Graduate,No,5389.0,2102.0,269.0,360,1.0,Urban,Approved
+LN0147,Male,Yes,2,Graduate,Yes,3515.0,2841.0,205.0,120,1.0,Rural,Approved
+LN0148,Male,Yes,2,Graduate,No,2360.0,3238.0,156.0,120,0.0,Urban,Rejected
+LN0149,Male,Yes,3,Not Graduate,No,3776.0,1068.0,226.0,120,1.0,Rural,Approved
+LN0150,Female,No,0,Graduate,No,4926.0,0.0,99.0,240,1.0,Urban,Approved
+LN0151,Male,No,3,Not Graduate,Yes,4141.0,1004.0,183.0,240,1.0,Urban,Approved
+LN0152,Male,Yes,3,Graduate,No,3615.0,1812.0,162.0,240,1.0,Rural,Approved
+LN0153,Male,No,2,Not Graduate,No,2187.0,343.0,166.0,360,0.0,Semiurban,Rejected
+LN0154,Male,No,1,Not Graduate,No,4834.0,351.0,226.0,240,1.0,Semiurban,Approved
+LN0155,Male,No,1,Not Graduate,Yes,1991.0,1913.0,194.0,180,1.0,Urban,Approved
+LN0156,Female,No,3,Graduate,No,6520.0,1442.0,167.0,120,0.0,Rural,Approved
+LN0157,Male,No,3,Not Graduate,No,5165.0,1539.0,51.0,360,1.0,Semiurban,Approved
+LN0158,Female,Yes,2,Graduate,No,2085.0,590.0,92.0,120,1.0,Rural,Approved
+LN0159,Male,Yes,3,Graduate,No,4382.0,1224.0,143.0,240,1.0,Semiurban,Approved
+LN0160,Female,Yes,2,Graduate,No,3496.0,391.0,156.0,360,0.0,Rural,Rejected
+LN0161,Male,No,1,Not Graduate,No,5638.0,2568.0,82.0,300,1.0,Urban,Approved
+LN0162,Male,No,1,Not Graduate,No,7681.0,2742.0,295.0,180,0.0,Rural,Rejected
+LN0163,Female,Yes,0,Not Graduate,No,1250.0,0.0,241.0,240,1.0,Semiurban,Approved
+LN0164,Female,No,1,Graduate,No,5230.0,385.0,186.0,240,1.0,Urban,Approved
+LN0165,Female,Yes,3,Graduate,No,4680.0,0.0,154.0,180,0.0,Rural,Rejected
+LN0166,Male,Yes,1,Graduate,No,6343.0,720.0,137.0,180,1.0,Semiurban,Approved
+LN0167,Female,Yes,2,Graduate,No,5426.0,1400.0,93.0,300,1.0,Urban,Approved
+LN0168,Male,No,1,Graduate,No,3496.0,0.0,155.0,240,1.0,Rural,Approved
+LN0169,Male,No,0,Graduate,Yes,4362.0,394.0,165.0,240,1.0,Semiurban,Approved
+LN0170,Female,Yes,1,Graduate,No,3408.0,295.0,75.0,120,1.0,Rural,Approved
+LN0171,Female,Yes,2,Graduate,No,7152.0,1749.0,170.0,360,1.0,Rural,Approved
+LN0172,Male,Yes,2,Graduate,No,5043.0,1583.0,141.0,360,1.0,Urban,Approved
+LN0173,Male,Yes,3,Graduate,No,8802.0,634.0,36.0,120,1.0,Urban,Approved
+LN0174,Female,No,1,Graduate,No,4879.0,1712.0,98.0,360,,Semiurban,Approved
+LN0175,Female,No,2,Not Graduate,No,3583.0,844.0,125.0,180,1.0,Urban,Approved
+LN0176,Female,Yes,0,Graduate,No,1973.0,1174.0,263.0,360,1.0,Semiurban,Approved
+LN0177,Male,Yes,3,Graduate,Yes,1394.0,3508.0,183.0,360,0.0,Rural,Rejected
+LN0178,Male,No,0,Graduate,No,1832.0,3109.0,70.0,120,1.0,Rural,Approved
+LN0179,Male,No,1,Graduate,No,5534.0,0.0,179.0,300,1.0,Semiurban,Approved
+LN0180,Male,Yes,1,Not Graduate,No,6017.0,2496.0,57.0,360,0.0,Rural,Approved
+LN0181,Male,Yes,1,Not Graduate,No,1838.0,2474.0,215.0,360,1.0,Urban,Approved
+LN0182,Male,Yes,3,Graduate,No,6790.0,122.0,122.0,300,0.0,Rural,Approved
+LN0183,Female,No,2,Graduate,No,4034.0,2483.0,144.0,120,1.0,Urban,Approved
+LN0184,Male,No,3,Not Graduate,No,5294.0,3346.0,230.0,300,1.0,Semiurban,Approved
+LN0185,Male,No,0,Not Graduate,Yes,8224.0,153.0,,120,,Semiurban,Approved
+LN0186,Male,Yes,3,Graduate,No,6794.0,399.0,66.0,180,1.0,Rural,Approved
+LN0187,Female,Yes,0,Graduate,No,4463.0,2721.0,115.0,120,1.0,Rural,Approved
+LN0188,Male,No,3,Graduate,No,3218.0,1826.0,212.0,180,1.0,Urban,Approved
+LN0189,Male,No,2,Not Graduate,No,1000.0,2162.0,59.0,180,1.0,Urban,Approved
+LN0190,Female,Yes,0,Graduate,No,3562.0,1909.0,20.0,120,1.0,Rural,Approved
+LN0191,Male,No,1,Not Graduate,No,4578.0,1969.0,123.0,240,1.0,Rural,Approved
+LN0192,Male,No,1,Graduate,No,3026.0,0.0,183.0,120,1.0,Semiurban,Approved
+LN0193,Male,Yes,3,Graduate,No,4737.0,2757.0,222.0,360,,Semiurban,Approved
+LN0194,Male,No,1,Graduate,Yes,5154.0,2904.0,122.0,360,1.0,Semiurban,Approved
+LN0195,Male,Yes,0,Graduate,No,4550.0,1225.0,125.0,240,0.0,Rural,Rejected
+LN0196,Female,Yes,1,Graduate,Yes,3700.0,1448.0,219.0,180,1.0,Rural,Approved
+LN0197,Female,Yes,2,Graduate,Yes,5337.0,0.0,38.0,240,0.0,Rural,Rejected
+LN0198,Female,Yes,2,Graduate,Yes,5884.0,2117.0,127.0,360,1.0,Semiurban,Approved
+LN0199,Male,Yes,3,Not Graduate,No,2819.0,2186.0,161.0,240,1.0,Rural,Approved
+LN0200,Male,Yes,0,Graduate,No,7822.0,1425.0,177.0,120,1.0,Urban,Approved
+LN0201,Male,Yes,2,Graduate,No,4803.0,2849.0,119.0,240,1.0,Rural,Approved
+LN0202,Female,No,2,Not Graduate,No,5038.0,1099.0,152.0,180,1.0,Rural,Approved
+LN0203,Male,Yes,0,Not Graduate,No,6416.0,2178.0,20.0,120,1.0,Rural,Approved
+LN0204,Male,Yes,1,Not Graduate,No,5466.0,276.0,111.0,300,1.0,Rural,Approved
+LN0205,Female,No,1,Not Graduate,No,6906.0,1472.0,177.0,360,1.0,Rural,Approved
+LN0206,Male,No,3,Graduate,Yes,5574.0,1291.0,91.0,360,1.0,Urban,Approved
+LN0207,Female,No,1,Graduate,No,3775.0,1770.0,154.0,240,1.0,Urban,Approved
+LN0208,Female,Yes,0,Not Graduate,No,5723.0,1057.0,177.0,120,1.0,Rural,Approved
+LN0209,Female,No,2,Graduate,No,2713.0,1342.0,129.0,300,0.0,Semiurban,Rejected
+LN0210,Male,Yes,1,Graduate,No,5217.0,2491.0,160.0,120,1.0,Rural,Approved
+LN0211,Male,Yes,3,Not Graduate,No,4934.0,976.0,92.0,360,1.0,Rural,Approved
+LN0212,Male,Yes,1,Graduate,Yes,4584.0,0.0,138.0,120,1.0,Rural,Approved
+LN0213,Male,Yes,0,Graduate,No,4743.0,3600.0,187.0,300,1.0,Semiurban,Approved
+LN0214,Male,No,3,Graduate,No,1236.0,3158.0,159.0,240,1.0,Semiurban,Approved
+LN0215,Male,No,1,Graduate,Yes,3903.0,0.0,115.0,180,1.0,Semiurban,Approved
+LN0216,Male,Yes,3,Graduate,No,5186.0,2328.0,163.0,120,,Urban,Approved
+LN0217,Female,Yes,0,Graduate,Yes,5320.0,896.0,193.0,180,1.0,Semiurban,Approved
+LN0218,Male,Yes,2,Not Graduate,No,2945.0,1816.0,27.0,360,0.0,Urban,Rejected
+LN0219,Female,No,0,Graduate,No,7531.0,1853.0,220.0,240,0.0,Urban,Approved
+LN0220,Male,Yes,0,Graduate,No,3268.0,1219.0,130.0,240,1.0,Semiurban,Approved
+LN0221,Male,Yes,0,Not Graduate,Yes,6939.0,559.0,176.0,120,1.0,Semiurban,Approved
+LN0222,Male,No,0,Not Graduate,Yes,5854.0,671.0,222.0,240,1.0,Semiurban,Approved
+LN0223,Female,No,2,Not Graduate,No,3708.0,401.0,68.0,120,1.0,Urban,Approved
+LN0224,Female,Yes,2,Not Graduate,Yes,8551.0,502.0,107.0,120,1.0,Rural,Approved
+LN0225,Female,No,3,Graduate,No,2613.0,1419.0,133.0,180,1.0,Semiurban,Approved
+LN0226,Female,No,1,Graduate,Yes,6838.0,641.0,103.0,240,0.0,Semiurban,Approved
+LN0227,Male,Yes,2,Graduate,No,7001.0,2318.0,254.0,120,1.0,Semiurban,Approved
+LN0228,Female,No,2,Graduate,No,3659.0,3285.0,99.0,180,1.0,Urban,Approved
+LN0229,Male,Yes,1,Graduate,No,7785.0,804.0,117.0,300,1.0,Urban,Approved
+LN0230,Male,No,2,Graduate,No,4500.0,1787.0,162.0,180,1.0,Rural,Approved
+LN0231,Female,Yes,0,Graduate,No,5577.0,2100.0,78.0,180,1.0,Semiurban,Approved
+LN0232,Female,Yes,0,Graduate,No,5521.0,2066.0,126.0,120,0.0,Urban,Approved
+LN0233,Female,Yes,1,Graduate,No,4731.0,1591.0,169.0,360,1.0,Rural,Approved
+LN0234,Female,No,3,Graduate,No,6622.0,2391.0,130.0,360,1.0,Semiurban,Approved
+LN0235,Female,Yes,3,Graduate,Yes,6587.0,2079.0,144.0,360,1.0,Urban,Approved
+LN0236,Female,No,1,Graduate,No,1503.0,15.0,118.0,180,1.0,Semiurban,Approved
+LN0237,Female,Yes,1,Not Graduate,No,7609.0,2543.0,59.0,120,1.0,Semiurban,Approved
+LN0238,Female,Yes,0,Graduate,No,1675.0,2565.0,169.0,240,1.0,Urban,Approved
+LN0239,Male,No,3,Graduate,No,7065.0,584.0,255.0,180,1.0,Urban,Approved
+LN0240,Female,Yes,2,Graduate,No,7253.0,1546.0,151.0,180,0.0,Urban,Approved
+LN0241,Female,Yes,0,Not Graduate,No,2818.0,2320.0,164.0,120,1.0,Semiurban,Approved
+LN0242,Male,No,1,Graduate,No,4178.0,1249.0,192.0,300,1.0,Semiurban,Approved
+LN0243,Female,Yes,3,Graduate,No,2789.0,2788.0,74.0,180,1.0,Rural,Approved
+LN0244,Male,Yes,2,Graduate,Yes,4570.0,4337.0,252.0,300,1.0,Semiurban,Approved
+LN0245,Male,Yes,2,Graduate,No,4384.0,557.0,162.0,300,1.0,Urban,Approved
+LN0246,Female,Yes,0,Not Graduate,No,6559.0,0.0,248.0,360,1.0,Semiurban,Approved
+LN0247,Male,No,3,Not Graduate,Yes,7621.0,1865.0,106.0,120,1.0,Rural,Approved
+LN0248,Male,No,3,Graduate,No,7791.0,2366.0,259.0,300,1.0,Rural,Approved
+LN0249,Male,Yes,1,Not Graduate,No,3876.0,1223.0,197.0,120,1.0,Urban,Approved
+LN0250,Male,No,3,Not Graduate,Yes,4582.0,3244.0,183.0,360,0.0,Urban,Rejected
+LN0251,Female,Yes,3,Graduate,No,1633.0,0.0,164.0,120,1.0,Rural,Approved
+LN0252,Male,No,0,Not Graduate,No,3388.0,2332.0,135.0,180,1.0,Rural,Approved
+LN0253,Female,Yes,3,Graduate,Yes,6930.0,773.0,222.0,300,1.0,Rural,Approved
+LN0254,Male,Yes,2,Graduate,No,8231.0,3563.0,,120,0.0,Urban,Approved
+LN0255,Male,Yes,0,Graduate,No,2531.0,3891.0,32.0,240,1.0,Rural,Approved
+LN0256,Male,Yes,0,Not Graduate,No,3815.0,580.0,83.0,120,1.0,Rural,Approved
+LN0257,Male,Yes,1,Graduate,No,4947.0,841.0,139.0,300,1.0,Urban,Approved
+LN0258,Female,Yes,3,Not Graduate,No,5560.0,2532.0,169.0,360,1.0,Semiurban,Approved
+LN0259,Female,No,1,Not Graduate,Yes,3381.0,1035.0,147.0,360,1.0,Semiurban,Approved
+LN0260,Male,Yes,2,Graduate,No,5848.0,1446.0,223.0,300,1.0,Rural,Approved
+LN0261,Male,No,0,Not Graduate,No,4052.0,1530.0,33.0,180,1.0,Semiurban,Approved
+LN0262,Female,Yes,0,Graduate,No,4971.0,0.0,159.0,180,1.0,Semiurban,Approved
+LN0263,Male,No,0,Graduate,Yes,6093.0,1483.0,41.0,360,1.0,Semiurban,Approved
+LN0264,Male,No,2,Graduate,No,5013.0,672.0,196.0,360,,Semiurban,Approved
+LN0265,Male,No,2,Graduate,No,4127.0,908.0,144.0,300,1.0,Rural,Approved
+LN0266,Female,Yes,1,Not Graduate,No,4781.0,3232.0,175.0,180,1.0,Semiurban,Approved
+LN0267,Female,Yes,1,Not Graduate,No,4823.0,0.0,98.0,360,0.0,Semiurban,Rejected
+LN0268,Female,No,1,Graduate,No,4260.0,2476.0,227.0,180,0.0,Urban,Approved
+LN0269,Male,Yes,3,Graduate,No,4482.0,1165.0,213.0,360,0.0,Rural,Rejected
+LN0270,Male,No,0,Graduate,No,8197.0,1164.0,185.0,120,1.0,Urban,Approved
+LN0271,Female,Yes,0,Graduate,No,6122.0,2448.0,142.0,240,1.0,Urban,Approved
+LN0272,Female,No,1,Not Graduate,No,4409.0,1908.0,185.0,120,1.0,Rural,Approved
+LN0273,Female,No,0,Graduate,No,6394.0,2185.0,108.0,360,1.0,Semiurban,Approved
+LN0274,Female,Yes,1,Graduate,No,4332.0,2662.0,201.0,240,1.0,Urban,Approved
+LN0275,Male,No,3,Graduate,No,7346.0,1102.0,249.0,240,1.0,Rural,Approved
+LN0276,Female,Yes,3,Graduate,No,5739.0,765.0,214.0,360,1.0,Semiurban,Approved
+LN0277,Male,No,2,Not Graduate,No,4785.0,198.0,106.0,360,1.0,Rural,Approved
+LN0278,Female,No,3,Graduate,No,5895.0,510.0,172.0,180,1.0,Urban,Approved
+LN0279,Male,Yes,1,Not Graduate,No,1858.0,5039.0,72.0,360,0.0,Semiurban,Rejected
+LN0280,Female,Yes,3,Graduate,No,2746.0,2994.0,184.0,300,1.0,Semiurban,Approved
+LN0281,Female,Yes,2,Not Graduate,Yes,2612.0,0.0,177.0,360,1.0,Rural,Approved
+LN0282,Female,No,0,Graduate,No,5286.0,0.0,,300,0.0,Semiurban,Approved
+LN0283,Female,Yes,1,Graduate,No,8465.0,2078.0,80.0,360,1.0,Urban,Approved
+LN0284,Male,No,0,Not Graduate,No,9463.0,2157.0,133.0,180,1.0,Urban,Approved
+LN0285,Female,No,2,Graduate,No,6276.0,2159.0,132.0,300,1.0,Urban,Approved
+LN0286,Male,Yes,2,Not Graduate,No,6002.0,1194.0,77.0,120,1.0,Rural,Approved
+LN0287,Male,Yes,2,Graduate,No,1398.0,1349.0,173.0,300,0.0,Semiurban,Rejected
+LN0288,Male,No,0,Graduate,No,3915.0,1893.0,165.0,180,1.0,Semiurban,Approved
+LN0289,Male,No,0,Graduate,Yes,3424.0,1603.0,138.0,300,1.0,Semiurban,Approved
+LN0290,Female,Yes,0,Graduate,No,3758.0,0.0,105.0,360,1.0,Urban,Approved
+LN0291,Male,Yes,0,Graduate,No,4664.0,1224.0,213.0,360,1.0,Semiurban,Approved
+LN0292,Male,Yes,2,Graduate,No,4056.0,478.0,249.0,180,0.0,Urban,Rejected
+LN0293,Male,Yes,2,Graduate,No,1041.0,1710.0,121.0,240,,Semiurban,Approved
+LN0294,Female,Yes,1,Graduate,No,6496.0,5082.0,113.0,360,1.0,Urban,Approved
+LN0295,Female,No,1,Graduate,Yes,2855.0,1941.0,179.0,120,1.0,Semiurban,Approved
+LN0296,Female,No,0,Not Graduate,Yes,5478.0,1124.0,129.0,180,1.0,Rural,Approved
+LN0297,Female,No,3,Not Graduate,No,9148.0,2606.0,142.0,300,0.0,Rural,Approved
+LN0298,Male,No,3,Not Graduate,Yes,3161.0,2079.0,194.0,300,1.0,Urban,Approved
+LN0299,Male,Yes,2,Graduate,Yes,1000.0,2004.0,35.0,120,1.0,Urban,Approved
+LN0300,Female,Yes,2,Graduate,Yes,4428.0,2228.0,229.0,360,1.0,Semiurban,Approved
+LN0301,Male,Yes,2,Not Graduate,No,7202.0,3968.0,154.0,180,1.0,Semiurban,Approved
+LN0302,Male,No,1,Graduate,No,8917.0,143.0,125.0,120,1.0,Rural,Approved
+LN0303,Male,No,1,Graduate,No,2541.0,2068.0,145.0,360,0.0,Semiurban,Rejected
+LN0304,Female,Yes,2,Graduate,No,5993.0,388.0,148.0,180,1.0,Urban,Approved
+LN0305,Female,Yes,2,Graduate,No,4069.0,2167.0,46.0,300,0.0,Urban,Approved
+LN0306,Male,No,2,Not Graduate,No,4788.0,398.0,240.0,180,1.0,Urban,Approved
+LN0307,Female,No,3,Graduate,No,10289.0,999.0,152.0,240,1.0,Urban,Approved
+LN0308,Female,Yes,1,Graduate,No,1994.0,1146.0,177.0,180,1.0,Urban,Approved
+LN0309,Female,Yes,3,Graduate,No,5507.0,2671.0,207.0,240,1.0,Rural,Approved
+LN0310,Female,No,3,Not Graduate,Yes,5935.0,2602.0,89.0,180,0.0,Rural,Approved
+LN0311,Female,Yes,2,Graduate,No,7172.0,5.0,178.0,240,1.0,Urban,Approved
+LN0312,Male,Yes,2,Graduate,No,5196.0,1566.0,134.0,300,1.0,Semiurban,Approved
+LN0313,Female,Yes,0,Graduate,No,5616.0,649.0,,360,1.0,Urban,Approved
+LN0314,Male,No,0,Not Graduate,Yes,4217.0,0.0,22.0,240,1.0,Rural,Approved
+LN0315,Male,No,3,Graduate,Yes,5538.0,1240.0,144.0,240,1.0,Urban,Approved
+LN0316,Female,No,1,Graduate,No,4314.0,1130.0,114.0,300,1.0,Rural,Approved
+LN0317,Male,No,2,Graduate,No,6243.0,4412.0,176.0,240,1.0,Rural,Approved
+LN0318,Male,No,2,Graduate,No,4261.0,2020.0,178.0,120,1.0,Urban,Approved
+LN0319,Male,No,3,Graduate,No,5754.0,0.0,108.0,300,1.0,Urban,Approved
+LN0320,Female,No,0,Graduate,No,4941.0,822.0,107.0,120,1.0,Semiurban,Approved
+LN0321,Female,Yes,1,Not Graduate,No,7252.0,2726.0,143.0,300,1.0,Rural,Approved
+LN0322,Male,Yes,0,Graduate,Yes,4897.0,4006.0,96.0,240,1.0,Semiurban,Approved
+LN0323,Female,Yes,0,Graduate,No,1454.0,0.0,201.0,120,0.0,Urban,Rejected
+LN0324,Female,Yes,0,Not Graduate,No,7524.0,0.0,128.0,240,1.0,Rural,Approved
+LN0325,Female,Yes,0,Graduate,No,3189.0,3745.0,20.0,300,1.0,Semiurban,Approved
+LN0326,Female,Yes,2,Graduate,No,3692.0,1968.0,128.0,240,1.0,Semiurban,Approved
+LN0327,Male,Yes,2,Graduate,Yes,3809.0,458.0,88.0,120,1.0,Semiurban,Approved
+LN0328,Male,No,0,Graduate,No,7749.0,2142.0,52.0,120,1.0,Urban,Approved
+LN0329,Female,No,1,Not Graduate,No,1000.0,0.0,76.0,240,1.0,Urban,Approved
+LN0330,Female,Yes,3,Graduate,No,11275.0,1504.0,157.0,180,1.0,Urban,Approved
+LN0331,Male,Yes,1,Not Graduate,No,7112.0,1893.0,230.0,300,1.0,Rural,Approved
+LN0332,Male,No,1,Graduate,No,5446.0,2609.0,169.0,300,1.0,Urban,Approved
+LN0333,Female,Yes,1,Graduate,No,4890.0,283.0,114.0,240,0.0,Rural,Rejected
+LN0334,Male,Yes,0,Graduate,No,5571.0,1603.0,177.0,180,0.0,Semiurban,Approved
+LN0335,Female,No,2,Graduate,No,6042.0,389.0,122.0,120,1.0,Semiurban,Approved
+LN0336,Female,Yes,1,Graduate,No,6290.0,1806.0,108.0,360,1.0,Urban,Approved
+LN0337,Male,No,0,Not Graduate,Yes,6111.0,426.0,81.0,360,0.0,Semiurban,Rejected
+LN0338,Male,Yes,1,Graduate,No,5179.0,1010.0,45.0,240,1.0,Urban,Approved
+LN0339,Female,No,1,Not Graduate,No,4605.0,305.0,127.0,180,0.0,Rural,Rejected
+LN0340,Female,No,0,Graduate,No,4697.0,2281.0,159.0,180,1.0,Semiurban,Approved
+LN0341,Male,No,2,Not Graduate,No,4610.0,2530.0,144.0,300,0.0,Urban,Approved
+LN0342,Female,Yes,2,Not Graduate,No,7268.0,1218.0,125.0,120,1.0,Semiurban,Approved
+LN0343,Male,No,3,Not Graduate,No,6187.0,1546.0,93.0,180,0.0,Semiurban,Rejected
+LN0344,Female,Yes,0,Not Graduate,No,1000.0,0.0,186.0,360,1.0,Urban,Rejected
+LN0345,Male,Yes,3,Not Graduate,No,6312.0,1140.0,71.0,120,1.0,Semiurban,Approved
+LN0346,Male,Yes,3,Graduate,No,5389.0,1440.0,197.0,120,0.0,Semiurban,Approved
+LN0347,Male,Yes,3,Graduate,Yes,4963.0,4645.0,90.0,240,1.0,Semiurban,Approved
+LN0348,Female,No,2,Graduate,No,4223.0,166.0,105.0,180,1.0,Semiurban,Approved
+LN0349,Female,No,0,Not Graduate,No,7248.0,3257.0,62.0,240,1.0,Rural,Approved
+LN0350,Male,Yes,3,Graduate,No,6895.0,2696.0,120.0,180,1.0,Semiurban,Approved
+LN0351,Female,Yes,0,Not Graduate,No,3454.0,1837.0,209.0,300,0.0,Semiurban,Rejected
+LN0352,Male,No,0,Graduate,No,5814.0,3610.0,181.0,240,1.0,Urban,Approved
+LN0353,Male,Yes,2,Graduate,No,3057.0,1947.0,209.0,240,1.0,Rural,Approved
+LN0354,Female,No,3,Graduate,No,2241.0,1967.0,181.0,360,1.0,Urban,Approved
+LN0355,Female,Yes,3,Graduate,No,3747.0,1436.0,84.0,240,1.0,Urban,Approved
+LN0356,Male,Yes,0,Graduate,No,6725.0,2968.0,130.0,180,1.0,Urban,Approved
+LN0357,Female,No,1,Graduate,No,6906.0,2816.0,103.0,360,1.0,Rural,Approved
+LN0358,Female,Yes,2,Graduate,No,6026.0,749.0,230.0,240,1.0,Urban,Approved
+LN0359,Male,No,2,Graduate,No,6450.0,0.0,78.0,240,0.0,Urban,Rejected
+LN0360,Male,Yes,2,Graduate,No,6032.0,1256.0,204.0,300,1.0,Urban,Approved
+LN0361,Female,Yes,2,Graduate,No,3717.0,540.0,,240,1.0,Semiurban,Approved
+LN0362,Male,Yes,3,Not Graduate,No,5864.0,1424.0,260.0,120,0.0,Urban,Rejected
+LN0363,Male,No,3,Graduate,No,6601.0,2985.0,125.0,360,1.0,Rural,Approved
+LN0364,Female,Yes,1,Graduate,No,6509.0,951.0,193.0,120,0.0,Rural,Rejected
+LN0365,Male,Yes,2,Graduate,No,7378.0,1449.0,287.0,360,1.0,Semiurban,Approved
+LN0366,Male,Yes,2,Graduate,No,6417.0,1570.0,113.0,300,0.0,Rural,Approved
+LN0367,Female,Yes,0,Graduate,Yes,5703.0,2518.0,58.0,240,1.0,Rural,Approved
+LN0368,Female,No,3,Graduate,No,7140.0,0.0,37.0,240,0.0,Semiurban,Approved
+LN0369,Male,No,2,Graduate,Yes,4947.0,772.0,193.0,240,1.0,Urban,Approved
+LN0370,Male,Yes,1,Graduate,No,3236.0,1754.0,37.0,360,1.0,Semiurban,Approved
+LN0371,Female,No,1,Graduate,No,4674.0,2940.0,128.0,240,1.0,Urban,Approved
+LN0372,Female,Yes,3,Not Graduate,No,3510.0,910.0,176.0,120,1.0,Urban,Approved
+LN0373,Female,Yes,1,Not Graduate,No,3650.0,0.0,161.0,240,1.0,Rural,Approved
+LN0374,Female,Yes,1,Graduate,No,4711.0,2244.0,176.0,300,1.0,Semiurban,Approved
+LN0375,Male,No,3,Graduate,No,3415.0,738.0,163.0,120,1.0,Rural,Approved
+LN0376,Female,No,2,Graduate,No,4384.0,72.0,227.0,240,1.0,Rural,Approved
+LN0377,Female,No,2,Graduate,No,1213.0,751.0,93.0,240,1.0,Urban,Approved
+LN0378,Male,No,1,Not Graduate,No,5427.0,1279.0,109.0,180,1.0,Rural,Approved
+LN0379,Female,No,1,Graduate,No,5002.0,774.0,104.0,360,,Semiurban,Approved
+LN0380,Male,No,2,Graduate,No,3366.0,0.0,200.0,120,1.0,Rural,Approved
+LN0381,Female,No,3,Graduate,No,6318.0,2576.0,204.0,180,1.0,Rural,Approved
+LN0382,Female,No,1,Graduate,No,6875.0,3030.0,177.0,300,1.0,Urban,Approved
+LN0383,Female,No,0,Graduate,No,1785.0,2282.0,221.0,360,1.0,Semiurban,Approved
+LN0384,Male,Yes,3,Graduate,No,3475.0,135.0,79.0,120,1.0,Rural,Approved
+LN0385,Male,No,1,Graduate,No,3462.0,1258.0,250.0,240,0.0,Urban,Rejected
+LN0386,Female,No,1,Graduate,No,3120.0,1492.0,241.0,120,1.0,Rural,Approved
+LN0387,Male,No,0,Graduate,Yes,6659.0,2219.0,194.0,240,1.0,Semiurban,Approved
+LN0388,Male,No,0,Graduate,No,4612.0,2302.0,257.0,360,1.0,Rural,Approved
+LN0389,Male,No,2,Graduate,No,4471.0,619.0,51.0,240,1.0,Rural,Approved
+LN0390,Male,No,3,Graduate,No,1000.0,1598.0,119.0,300,1.0,Urban,Approved
+LN0391,Male,No,3,Graduate,Yes,6271.0,2049.0,106.0,240,1.0,Rural,Approved
+LN0392,Male,No,2,Graduate,No,2521.0,3247.0,193.0,300,1.0,Urban,Approved
+LN0393,Female,No,3,Graduate,No,5120.0,2345.0,87.0,360,1.0,Semiurban,Approved
+LN0394,Female,No,3,Graduate,No,5555.0,2447.0,195.0,360,1.0,Rural,Approved
+LN0395,Male,No,3,Not Graduate,No,7721.0,1601.0,232.0,120,1.0,Semiurban,Approved
+LN0396,Female,Yes,3,Graduate,No,2382.0,3193.0,192.0,300,1.0,Semiurban,Approved
+LN0397,Female,Yes,3,Graduate,No,1000.0,1992.0,167.0,300,1.0,Rural,Approved
+LN0398,Female,No,0,Graduate,No,5368.0,467.0,91.0,180,0.0,Urban,Approved
+LN0399,Female,No,3,Graduate,No,8601.0,3184.0,99.0,180,1.0,Semiurban,Approved
+LN0400,Male,Yes,0,Graduate,No,7478.0,2337.0,,180,1.0,Semiurban,Approved
+LN0401,Female,No,3,Graduate,No,5419.0,968.0,197.0,240,0.0,Rural,Approved
+LN0402,Female,Yes,2,Not Graduate,Yes,4017.0,925.0,148.0,180,1.0,Rural,Approved
+LN0403,Male,Yes,1,Graduate,No,6614.0,1856.0,125.0,300,1.0,Rural,Approved
+LN0404,Male,Yes,0,Graduate,Yes,3053.0,2056.0,28.0,240,1.0,Rural,Approved
+LN0405,Female,Yes,3,Graduate,No,5953.0,1737.0,86.0,360,0.0,Rural,Approved
+LN0406,Female,Yes,2,Not Graduate,No,6011.0,1874.0,265.0,120,1.0,Rural,Approved
+LN0407,Female,No,1,Graduate,No,7120.0,3540.0,73.0,180,1.0,Urban,Approved
+LN0408,Female,Yes,0,Not Graduate,No,10519.0,2786.0,161.0,360,1.0,Semiurban,Approved
+LN0409,Female,No,1,Graduate,No,5785.0,1729.0,210.0,300,0.0,Urban,Approved
+LN0410,Female,No,2,Not Graduate,Yes,3982.0,2630.0,75.0,120,1.0,Urban,Approved
+LN0411,Male,Yes,0,Graduate,No,4949.0,261.0,161.0,360,1.0,Rural,Approved
+LN0412,Female,Yes,1,Not Graduate,No,1462.0,1978.0,206.0,120,0.0,Semiurban,Rejected
+LN0413,Female,No,3,Graduate,No,3611.0,3671.0,151.0,180,1.0,Urban,Approved
+LN0414,Male,Yes,0,Not Graduate,No,4181.0,1238.0,322.0,300,1.0,Rural,Approved
+LN0415,Male,Yes,1,Graduate,No,3952.0,483.0,50.0,120,1.0,Rural,Approved
+LN0416,Male,No,2,Graduate,No,5305.0,717.0,214.0,360,1.0,Semiurban,Approved
+LN0417,Male,No,2,Graduate,No,3355.0,192.0,140.0,180,0.0,Urban,Rejected
+LN0418,Female,Yes,0,Graduate,No,7242.0,558.0,196.0,180,1.0,Urban,Approved
+LN0419,Female,No,1,Graduate,No,5000.0,1055.0,176.0,360,0.0,Urban,Approved
+LN0420,Female,Yes,0,Graduate,No,4981.0,0.0,106.0,360,1.0,Rural,Approved
+LN0421,Female,Yes,0,Graduate,No,4344.0,1519.0,164.0,120,1.0,Semiurban,Approved
+LN0422,Female,Yes,1,Graduate,Yes,5310.0,2583.0,39.0,240,0.0,Semiurban,Approved
+LN0423,Female,No,1,Not Graduate,No,6650.0,411.0,186.0,180,1.0,Urban,Approved
+LN0424,Male,No,3,Graduate,No,3266.0,3323.0,168.0,120,1.0,Rural,Approved
+LN0425,Female,No,1,Not Graduate,No,3684.0,2113.0,188.0,360,1.0,Urban,Approved
+LN0426,Male,No,2,Graduate,Yes,4393.0,2737.0,213.0,120,0.0,Semiurban,Approved
+LN0427,Male,No,0,Graduate,No,2308.0,711.0,172.0,360,1.0,Rural,Approved
+LN0428,Female,Yes,0,Not Graduate,No,3361.0,2525.0,159.0,300,1.0,Urban,Approved
+LN0429,Male,Yes,2,Graduate,No,4048.0,190.0,97.0,360,1.0,Urban,Approved
+LN0430,Female,Yes,1,Graduate,Yes,6749.0,2568.0,107.0,360,1.0,Rural,Approved
+LN0431,Male,Yes,2,Graduate,No,5525.0,1706.0,221.0,360,1.0,Semiurban,Approved
+LN0432,Female,No,2,Graduate,No,5387.0,2164.0,236.0,240,1.0,Rural,Approved
+LN0433,Male,Yes,3,Graduate,No,6702.0,89.0,136.0,360,1.0,Urban,Approved
+LN0434,Female,No,2,Not Graduate,No,4725.0,426.0,153.0,180,1.0,Urban,Approved
+LN0435,Female,Yes,0,Not Graduate,No,5781.0,2217.0,96.0,180,1.0,Urban,Approved
+LN0436,Female,No,2,Graduate,No,4794.0,362.0,220.0,120,0.0,Urban,Rejected
+LN0437,Female,No,0,Graduate,No,5531.0,2056.0,190.0,240,1.0,Semiurban,Approved
+LN0438,Female,Yes,0,Graduate,No,3834.0,0.0,266.0,120,0.0,Semiurban,Rejected
+LN0439,Male,Yes,0,Graduate,No,1000.0,2518.0,97.0,180,1.0,Urban,Approved
+LN0440,Male,Yes,1,Graduate,Yes,4731.0,21.0,127.0,180,1.0,Semiurban,Approved
+LN0441,Male,Yes,3,Graduate,Yes,7845.0,2163.0,164.0,300,0.0,Semiurban,Approved
+LN0442,Female,No,0,Graduate,No,6852.0,2251.0,189.0,360,1.0,Semiurban,Approved
+LN0443,Male,Yes,0,Not Graduate,No,6931.0,664.0,137.0,180,1.0,Urban,Approved
+LN0444,Female,Yes,1,Graduate,No,7472.0,2198.0,98.0,120,0.0,Rural,Approved
+LN0445,Female,No,0,Graduate,No,5177.0,1813.0,203.0,120,1.0,Rural,Approved
+LN0446,Male,Yes,2,Graduate,No,5395.0,853.0,193.0,360,1.0,Rural,Approved
+LN0447,Male,Yes,2,Graduate,No,3765.0,290.0,95.0,360,1.0,Urban,Approved
+LN0448,Female,Yes,3,Graduate,Yes,4368.0,0.0,231.0,300,1.0,Semiurban,Approved
+LN0449,Male,Yes,0,Not Graduate,No,6232.0,1920.0,220.0,240,1.0,Semiurban,Approved
+LN0450,Female,Yes,1,Graduate,No,7408.0,0.0,158.0,120,1.0,Urban,Approved
+LN0451,Female,No,2,Not Graduate,Yes,4721.0,1614.0,155.0,360,1.0,Urban,Approved
+LN0452,Female,Yes,1,Graduate,No,4100.0,1184.0,183.0,120,1.0,Rural,Approved
+LN0453,Female,Yes,1,Graduate,No,5001.0,2315.0,98.0,360,1.0,Rural,Approved
+LN0454,Female,Yes,2,Graduate,No,6202.0,1138.0,152.0,180,1.0,Urban,Approved
+LN0455,Male,Yes,1,Graduate,No,2112.0,1105.0,21.0,120,1.0,Rural,Approved
+LN0456,Male,Yes,2,Not Graduate,No,1000.0,2378.0,203.0,180,1.0,Semiurban,Approved
+LN0457,Female,No,1,Not Graduate,No,3899.0,1902.0,56.0,120,1.0,Urban,Approved
+LN0458,Female,Yes,2,Graduate,No,2559.0,1879.0,240.0,240,1.0,Urban,Approved
+LN0459,Male,No,0,Graduate,No,3984.0,2063.0,130.0,300,1.0,Semiurban,Approved
+LN0460,Male,No,3,Graduate,No,4704.0,0.0,137.0,180,1.0,Semiurban,Approved
+LN0461,Female,Yes,2,Not Graduate,Yes,4094.0,2408.0,112.0,360,0.0,Semiurban,Rejected
+LN0462,Male,Yes,2,Graduate,No,7905.0,2235.0,133.0,240,1.0,Rural,Approved
+LN0463,Female,Yes,3,Graduate,No,5653.0,280.0,235.0,120,1.0,Urban,Approved
+LN0464,Male,Yes,2,Graduate,No,5601.0,1207.0,20.0,180,1.0,Rural,Approved
+LN0465,Female,No,2,Graduate,No,6244.0,1453.0,227.0,120,1.0,Semiurban,Approved
+LN0466,Male,Yes,1,Graduate,No,2722.0,1339.0,170.0,120,0.0,Rural,Rejected
+LN0467,Female,Yes,3,Graduate,No,7078.0,1901.0,78.0,120,0.0,Semiurban,Approved
+LN0468,Male,Yes,0,Not Graduate,No,4848.0,3218.0,85.0,300,1.0,Rural,Approved
+LN0469,Male,Yes,2,Graduate,No,6341.0,2798.0,251.0,300,1.0,Rural,Approved
+LN0470,Female,Yes,3,Graduate,Yes,2856.0,0.0,93.0,360,0.0,Semiurban,Rejected
+LN0471,Male,Yes,1,Not Graduate,Yes,1892.0,2246.0,81.0,180,0.0,Rural,Rejected
+LN0472,Female,No,0,Graduate,No,6636.0,3095.0,218.0,240,1.0,Urban,Approved
+LN0473,Male,No,3,Not Graduate,No,5753.0,1964.0,170.0,240,1.0,Rural,Approved
+LN0474,Female,Yes,0,Graduate,No,3196.0,2809.0,,240,1.0,Rural,Approved
+LN0475,Male,Yes,0,Graduate,No,3261.0,3915.0,163.0,120,0.0,Urban,Approved
+LN0476,Female,Yes,0,Not Graduate,No,7251.0,2728.0,88.0,300,1.0,Semiurban,Approved
+LN0477,Male,No,2,Graduate,No,2621.0,1799.0,216.0,180,1.0,Urban,Approved
+LN0478,Female,Yes,2,Graduate,No,8285.0,2754.0,214.0,120,1.0,Rural,Approved
+LN0479,Male,No,1,Graduate,No,3199.0,1674.0,182.0,300,1.0,Semiurban,Approved
+LN0480,Female,Yes,1,Graduate,No,6277.0,1529.0,172.0,300,1.0,Rural,Approved
+LN0481,Female,Yes,3,Graduate,No,4343.0,1078.0,256.0,180,0.0,Rural,Rejected
+LN0482,Female,Yes,1,Graduate,No,6206.0,3376.0,150.0,180,1.0,Urban,Approved
+LN0483,Male,Yes,0,Not Graduate,No,3912.0,518.0,79.0,180,1.0,Urban,Approved
+LN0484,Female,No,0,Graduate,No,4674.0,3339.0,177.0,120,1.0,Semiurban,Approved
+LN0485,Male,No,2,Graduate,Yes,5082.0,2100.0,275.0,360,1.0,Semiurban,Approved
+LN0486,Female,Yes,0,Graduate,Yes,2996.0,0.0,89.0,180,1.0,Semiurban,Approved
+LN0487,Male,Yes,3,Not Graduate,No,6482.0,1941.0,128.0,360,1.0,Rural,Approved
+LN0488,Female,No,0,Graduate,No,3974.0,0.0,175.0,120,1.0,Urban,Approved
+LN0489,Male,No,0,Not Graduate,No,4543.0,2251.0,147.0,360,1.0,Urban,Approved
+LN0490,Male,No,3,Graduate,No,3011.0,2562.0,91.0,240,1.0,Urban,Approved
+LN0491,Female,No,1,Graduate,No,1000.0,789.0,217.0,360,1.0,Semiurban,Approved
+LN0492,Male,Yes,1,Graduate,No,4618.0,1648.0,289.0,180,0.0,Urban,Rejected
+LN0493,Male,No,3,Graduate,No,9825.0,3845.0,162.0,120,0.0,Urban,Approved
+LN0494,Female,Yes,2,Graduate,Yes,6569.0,893.0,96.0,180,1.0,Urban,Approved
+LN0495,Male,No,0,Graduate,No,4961.0,229.0,57.0,240,1.0,Semiurban,Approved
+LN0496,Male,No,3,Not Graduate,No,4474.0,3278.0,165.0,180,0.0,Urban,Rejected
+LN0497,Male,No,0,Graduate,No,5045.0,3855.0,216.0,180,1.0,Semiurban,Approved
+LN0498,Female,No,2,Graduate,Yes,6094.0,1504.0,179.0,180,0.0,Urban,Rejected
+LN0499,Male,No,0,Graduate,Yes,2638.0,2714.0,150.0,300,0.0,Urban,Rejected
+LN0500,Female,Yes,3,Graduate,No,7229.0,3110.0,115.0,240,1.0,Urban,Approved
+LN0501,Male,Yes,0,Graduate,No,6431.0,609.0,84.0,180,1.0,Semiurban,Approved
+LN0502,Male,No,1,Graduate,No,6436.0,918.0,200.0,180,0.0,Semiurban,Approved
+LN0503,Male,No,2,Graduate,No,5877.0,2977.0,205.0,180,1.0,Urban,Approved
+LN0504,Female,Yes,2,Graduate,No,5039.0,3522.0,57.0,120,1.0,Rural,Approved
+LN0505,Male,No,2,Graduate,No,6346.0,2175.0,245.0,300,1.0,Semiurban,Approved
+LN0506,Male,No,3,Graduate,No,6184.0,444.0,184.0,120,1.0,Semiurban,Approved
+LN0507,Female,Yes,2,Not Graduate,No,4292.0,3884.0,234.0,300,1.0,Urban,Approved
+LN0508,Male,No,1,Not Graduate,No,3853.0,863.0,69.0,180,1.0,Rural,Approved
+LN0509,Female,No,3,Graduate,Yes,5204.0,1098.0,68.0,240,0.0,Urban,Rejected
+LN0510,Female,Yes,1,Not Graduate,No,8098.0,1911.0,141.0,360,1.0,Semiurban,Approved
+LN0511,Male,Yes,0,Graduate,Yes,2522.0,3365.0,180.0,360,1.0,Semiurban,Approved
+LN0512,Female,Yes,0,Graduate,Yes,2065.0,2525.0,258.0,180,1.0,Urban,Approved
+LN0513,Male,No,0,Graduate,No,5330.0,1998.0,192.0,120,1.0,Urban,Approved
+LN0514,Female,Yes,0,Graduate,Yes,5102.0,2056.0,135.0,240,1.0,Rural,Approved
+LN0515,Female,Yes,1,Graduate,No,5347.0,1552.0,88.0,300,0.0,Rural,Approved
+LN0516,Male,Yes,3,Not Graduate,No,5488.0,2170.0,224.0,180,0.0,Semiurban,Rejected
+LN0517,Female,Yes,3,Graduate,No,4554.0,0.0,92.0,240,1.0,Rural,Approved
+LN0518,Female,Yes,2,Graduate,No,7980.0,1144.0,248.0,240,1.0,Rural,Approved
+LN0519,Female,Yes,1,Graduate,Yes,1798.0,1790.0,133.0,300,1.0,Semiurban,Approved
+LN0520,Female,No,0,Not Graduate,No,3343.0,119.0,245.0,240,1.0,Semiurban,Approved
+LN0521,Female,No,1,Graduate,No,4793.0,1964.0,191.0,120,1.0,Semiurban,Approved
+LN0522,Male,Yes,2,Graduate,No,1714.0,1255.0,142.0,120,1.0,Semiurban,Approved
+LN0523,Female,Yes,2,Graduate,No,4648.0,3607.0,119.0,120,0.0,Urban,Approved
+LN0524,Male,Yes,1,Graduate,Yes,8323.0,3388.0,130.0,240,1.0,Semiurban,Approved
+LN0525,Female,No,1,Not Graduate,No,5042.0,941.0,176.0,120,1.0,Semiurban,Approved
+LN0526,Male,No,1,Not Graduate,No,5461.0,1319.0,155.0,300,1.0,Semiurban,Approved
+LN0527,Male,No,3,Graduate,No,2480.0,1411.0,114.0,240,1.0,Rural,Approved
+LN0528,Female,No,0,Not Graduate,No,3767.0,958.0,140.0,360,1.0,Semiurban,Approved
+LN0529,Female,No,1,Graduate,No,4250.0,1734.0,155.0,240,1.0,Urban,Approved
+LN0530,Female,No,1,Not Graduate,No,4365.0,590.0,22.0,300,1.0,Urban,Approved
+LN0531,Male,No,1,Graduate,No,7563.0,143.0,177.0,360,1.0,Semiurban,Approved
+LN0532,Female,No,2,Graduate,No,6115.0,2247.0,91.0,240,1.0,Urban,Approved
+LN0533,Male,No,2,Graduate,No,2777.0,2255.0,81.0,120,1.0,Rural,Approved
+LN0534,Male,Yes,3,Graduate,No,5493.0,535.0,49.0,180,1.0,Semiurban,Approved
+LN0535,Male,Yes,0,Graduate,No,5996.0,2574.0,42.0,180,1.0,Urban,Approved
+LN0536,Female,Yes,3,Graduate,No,7280.0,742.0,69.0,120,0.0,Urban,Approved
+LN0537,Female,Yes,0,Graduate,Yes,8161.0,1804.0,107.0,180,1.0,Semiurban,Approved
+LN0538,Male,No,2,Graduate,No,2970.0,2484.0,267.0,180,1.0,Urban,Approved
+LN0539,Male,No,2,Graduate,No,3378.0,1460.0,118.0,120,1.0,Semiurban,Approved
+LN0540,Female,Yes,2,Graduate,No,2485.0,2046.0,161.0,120,1.0,Urban,Approved
+LN0541,Male,No,3,Not Graduate,No,4532.0,880.0,174.0,240,1.0,Rural,Approved
+LN0542,Female,Yes,1,Graduate,No,5933.0,1264.0,158.0,240,1.0,Urban,Approved
+LN0543,Male,No,1,Graduate,No,6975.0,1253.0,145.0,120,1.0,Urban,Approved
+LN0544,Female,Yes,2,Graduate,Yes,4848.0,604.0,78.0,300,1.0,Semiurban,Approved
+LN0545,Male,No,1,Not Graduate,No,4360.0,1288.0,,180,0.0,Urban,Rejected
+LN0546,Female,No,1,Graduate,No,5304.0,0.0,258.0,240,1.0,Semiurban,Approved
+LN0547,Male,Yes,3,Graduate,Yes,3330.0,911.0,49.0,180,0.0,Rural,Approved
+LN0548,Female,No,0,Not Graduate,No,9179.0,1158.0,89.0,360,1.0,Semiurban,Approved
+LN0549,Female,Yes,2,Not Graduate,No,1785.0,1193.0,133.0,120,1.0,Semiurban,Approved
+LN0550,Male,Yes,2,Graduate,Yes,5369.0,1210.0,92.0,300,0.0,Urban,Approved
+LN0551,Male,Yes,3,Graduate,No,9047.0,1426.0,180.0,360,1.0,Rural,Approved
+LN0552,Female,Yes,3,Graduate,No,5014.0,2075.0,106.0,360,1.0,Semiurban,Approved
+LN0553,Male,No,1,Not Graduate,No,4620.0,2549.0,280.0,360,1.0,Urban,Approved
+LN0554,Female,No,2,Graduate,No,4285.0,720.0,221.0,120,1.0,Urban,Approved
+LN0555,Male,No,0,Graduate,No,4639.0,56.0,163.0,240,1.0,Semiurban,Approved
+LN0556,Female,Yes,3,Not Graduate,No,7746.0,250.0,212.0,120,1.0,Urban,Approved
+LN0557,Female,No,0,Graduate,No,1000.0,915.0,216.0,240,0.0,Semiurban,Rejected
+LN0558,Female,Yes,0,Graduate,No,8067.0,1078.0,116.0,360,1.0,Semiurban,Approved
+LN0559,Female,No,2,Graduate,No,2152.0,576.0,101.0,360,0.0,Semiurban,Rejected
+LN0560,Female,No,2,Graduate,No,4467.0,0.0,155.0,300,0.0,Rural,Rejected
+LN0561,Female,No,3,Graduate,Yes,4142.0,953.0,202.0,240,1.0,Semiurban,Approved
+LN0562,Male,Yes,2,Graduate,No,6177.0,1718.0,158.0,360,1.0,Urban,Approved
+LN0563,Male,No,2,Graduate,No,1804.0,2214.0,55.0,180,0.0,Rural,Rejected
+LN0564,Male,No,2,Graduate,No,5924.0,831.0,102.0,300,0.0,Urban,Approved
+LN0565,Female,Yes,0,Not Graduate,Yes,9049.0,1004.0,146.0,120,1.0,Rural,Approved
+LN0566,Female,No,3,Graduate,No,2274.0,388.0,145.0,300,1.0,Rural,Approved
+LN0567,Female,Yes,1,Not Graduate,No,5379.0,1462.0,268.0,180,1.0,Rural,Approved
+LN0568,Female,No,0,Graduate,No,3676.0,482.0,67.0,240,1.0,Rural,Approved
+LN0569,Male,Yes,2,Not Graduate,No,5852.0,2188.0,180.0,120,1.0,Urban,Approved
+LN0570,Male,Yes,0,Not Graduate,No,5038.0,0.0,239.0,120,1.0,Semiurban,Approved
+LN0571,Female,No,2,Graduate,No,3717.0,1068.0,286.0,240,1.0,Urban,Approved
+LN0572,Male,Yes,2,Graduate,No,5976.0,1861.0,126.0,300,1.0,Semiurban,Approved
+LN0573,Male,Yes,0,Not Graduate,No,8609.0,1721.0,179.0,360,1.0,Urban,Approved
+LN0574,Female,Yes,3,Graduate,No,4618.0,4732.0,184.0,300,1.0,Rural,Approved
+LN0575,Male,Yes,2,Graduate,No,6440.0,1920.0,162.0,180,1.0,Rural,Approved
+LN0576,Female,Yes,3,Graduate,No,2413.0,295.0,144.0,360,1.0,Semiurban,Approved
+LN0577,Male,Yes,1,Not Graduate,No,3087.0,1385.0,176.0,300,1.0,Semiurban,Approved
+LN0578,Female,No,2,Not Graduate,No,5945.0,0.0,20.0,240,1.0,Urban,Approved
+LN0579,Female,Yes,3,Not Graduate,No,7968.0,1403.0,191.0,180,1.0,Semiurban,Approved
+LN0580,Female,Yes,3,Graduate,No,5711.0,500.0,158.0,180,0.0,Urban,Approved
+LN0581,Female,No,1,Not Graduate,Yes,4374.0,2598.0,137.0,180,1.0,Semiurban,Approved
+LN0582,Male,No,3,Graduate,Yes,4999.0,841.0,273.0,360,1.0,Semiurban,Approved
+LN0583,Female,No,3,Graduate,No,2499.0,1360.0,110.0,120,1.0,Semiurban,Approved
+LN0584,Female,No,1,Graduate,No,6209.0,737.0,126.0,360,0.0,Rural,Rejected
+LN0585,Female,No,2,Graduate,No,6765.0,3587.0,269.0,300,1.0,Rural,Approved
+LN0586,Male,No,3,Graduate,No,4096.0,1115.0,100.0,120,1.0,Urban,Approved
+LN0587,Female,No,3,Graduate,Yes,4060.0,3699.0,117.0,300,1.0,Semiurban,Approved
+LN0588,Male,Yes,3,Graduate,No,5532.0,2477.0,141.0,120,1.0,Urban,Approved
+LN0589,Female,Yes,0,Graduate,No,4127.0,2078.0,200.0,360,1.0,Semiurban,Approved
+LN0590,Male,No,1,Graduate,No,4868.0,1942.0,162.0,180,1.0,Rural,Approved
+LN0591,Male,Yes,0,Graduate,No,9199.0,1973.0,72.0,240,1.0,Rural,Approved
+LN0592,Female,Yes,1,Graduate,No,4506.0,0.0,118.0,180,1.0,Semiurban,Approved
+LN0593,Male,Yes,2,Graduate,No,4283.0,1165.0,114.0,360,1.0,Semiurban,Approved
+LN0594,Female,No,2,Graduate,No,3705.0,2514.0,145.0,120,1.0,Rural,Approved
+LN0595,Female,No,3,Graduate,No,6488.0,1441.0,176.0,180,0.0,Rural,Approved
+LN0596,Female,Yes,1,Graduate,No,4638.0,0.0,175.0,360,1.0,Urban,Approved
+LN0597,Male,No,2,Graduate,No,3701.0,1437.0,43.0,300,0.0,Rural,Approved
+LN0598,Male,Yes,1,Graduate,No,7643.0,3545.0,214.0,240,1.0,Semiurban,Approved
+LN0599,Female,Yes,2,Graduate,No,7839.0,2996.0,165.0,180,1.0,Urban,Approved
+LN0600,Female,Yes,0,Not Graduate,No,3799.0,1426.0,233.0,120,1.0,Semiurban,Approved

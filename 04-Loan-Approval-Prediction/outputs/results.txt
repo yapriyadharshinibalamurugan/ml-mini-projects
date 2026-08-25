@@ -1,0 +1,40 @@
+LOAN APPROVAL PREDICTION - RESULTS
+==================================================
+
+=== Logistic Regression ===
+Accuracy : 0.950
+Precision: 0.981
+Recall   : 0.963
+F1-Score : 0.972
+Confusion Matrix:
+[[ 11   2]
+ [  4 103]]
+
+=== Decision Tree ===
+Accuracy : 0.900
+Precision: 0.961
+Recall   : 0.925
+F1-Score : 0.943
+Confusion Matrix:
+[[ 9  4]
+ [ 8 99]]
+
+=== Random Forest ===
+Accuracy : 0.958
+Precision: 0.981
+Recall   : 0.972
+F1-Score : 0.977
+Confusion Matrix:
+[[ 11   2]
+ [  3 104]]
+
+=== Naive Bayes ===
+Accuracy : 0.900
+Precision: 1.000
+Recall   : 0.888
+F1-Score : 0.941
+Confusion Matrix:
+[[13  0]
+ [12 95]]
+
+Best Model: Random Forest (Accuracy: 0.958)
