@@ -1,0 +1,14 @@
+SALES FORECASTING - RESULTS
+==================================================
+
+=== Linear Regression ===
+MAE : 16.66
+MSE : 398.74
+RMSE: 19.97
+
+=== Random Forest Regressor ===
+MAE : 32.09
+MSE : 1415.58
+RMSE: 37.62
+
+Best Model: Linear Regression (MAE: 16.66)
